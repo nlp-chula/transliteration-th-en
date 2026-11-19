@@ -1,0 +1,1071 @@
+﻿direction,input,pred1,pred2,pred3,reference,top1_correct,top3_correct
+TH2EN,เบญจมาศ,benjamas,benchamat,benjamat,benchamat | benjamas | benjamat,TRUE,TRUE
+TH2EN,พริ้มเพรา,primprao,primphrao,primpao,phrimphrao | primphrao | primprao,TRUE,TRUE
+TH2EN,รุสนี,russanee,rutsani,rutsanee,rutsanee | rutsani,FALSE,TRUE
+TH2EN,ณิชชาภัทร,nitchaphat,nitchapat,nichchapat,nitchapat | nitchaphat,TRUE,TRUE
+TH2EN,ปสุตา,pasuta,pasutha,pasuda,pasuta,TRUE,TRUE
+TH2EN,ธนิสรา,thanisara,tanisara,thanitsara,tanisara | thanisara,TRUE,TRUE
+TH2EN,รติมา,ratima,rathima,ratimar,ratima,TRUE,TRUE
+TH2EN,วิเศษ,wiset,viset,wised,viseth | wiset | wiseth,TRUE,TRUE
+TH2EN,ภัควดี,pakwadee,phakwadi,phakwadee,pakkawadee | phakkawadi,FALSE,FALSE
+TH2EN,วไลลักษณ์,walailak,walailuck,valailak,walailak | walailuck | walailuk,TRUE,TRUE
+TH2EN,ธีรนัย,thiranai,teeranai,tiranai,teeranai | thiranai | tiranai,TRUE,TRUE
+TH2EN,ไพฑูรย์,paitoon,phaithun,phaitoon,paitoon | paitun | phaithun,TRUE,TRUE
+TH2EN,อัจฉรีย์,atcharee,atchari,adcharee,adcharee | atcharee | atchari,TRUE,TRUE
+TH2EN,ดวงธิดา,duangthida,duangtida,doungthida,duangthida | duangtida,TRUE,TRUE
+TH2EN,มนันยา,mananya,manunya,manhanya,mananya,TRUE,TRUE
+TH2EN,ศุภมิตร,supphamit,suppamit,suppamitr,suphamit | suppamit | supphamit,TRUE,TRUE
+TH2EN,วลัยลักษณ์,walailak,walailuck,valailuck,walailak | walailuck | walailuk,TRUE,TRUE
+TH2EN,วงเดือน,wongduean,wongduan,vongduean,vongduean | wongduean,TRUE,TRUE
+TH2EN,สนธิ,sonthi,sonti,sontee,sonthi,TRUE,TRUE
+TH2EN,ทรงกรด,songkrod,songkrot,songgrod,songkhot | songkot | songkrot,FALSE,TRUE
+TH2EN,นรเทพ,norathep,noratep,norratep,noratep | norathep,TRUE,TRUE
+TH2EN,วิไลรักษ์,wilairak,vilairak,wilairuk,vilairak | wilairak,TRUE,TRUE
+TH2EN,ประพาส,praphat,prapas,praphas,prapas | praphas | praphat,TRUE,TRUE
+TH2EN,สามารถ,samart,samat,samard,samart | samat,TRUE,TRUE
+TH2EN,จีระเดช,jiradet,chiradet,jiradech,chiradet | jiradech | jiradet,TRUE,TRUE
+TH2EN,ฐิติมน,thitimon,titimon,thitimol,thitimon,TRUE,TRUE
+TH2EN,อัชรี,atchari,acharee,achari,adcharee | atcharee | atchari,TRUE,TRUE
+TH2EN,สิรินันท์,sirinan,sirinun,sirinant,sirinan | sirinun,TRUE,TRUE
+TH2EN,สถิต,sathit,satit,sathid,sathit | satit,TRUE,TRUE
+TH2EN,จุไรลักษณ์,churailak,jurailak,jurailuck,churailak | churailuk | jurailak,TRUE,TRUE
+TH2EN,วิศิษฎ์,wisit,visit,wisith,visit | wisit | wisith,TRUE,TRUE
+TH2EN,ณัฐิยา,natthiya,nattiya,nutthiya,natthiya | nattiya | nutthiya,TRUE,TRUE
+TH2EN,วชิรศักดิ์,wachirasak,vachirasak,wachirasuk,vachirasak | wachirasak,TRUE,TRUE
+TH2EN,วิราพร,wiraphon,wiraporn,viraporn,wiraphon | wiraphorn | wiraporn,TRUE,TRUE
+TH2EN,ลดาวรรณ,ladawan,ladavan,ladawun,ladawan,TRUE,TRUE
+TH2EN,ศศิภา,sasipha,sasipa,sasipar,sasipa | sasipha,TRUE,TRUE
+TH2EN,ประชัน,prachan,prachun,pachan,prachan | prashan,TRUE,TRUE
+TH2EN,ไกรวิชญ์,kraiwit,kraiwich,kraivit,kraivit | kraiwit,TRUE,TRUE
+TH2EN,วารุณี,warunee,waruni,varunee,varunee | warunee | waruni,TRUE,TRUE
+TH2EN,มุกดา,mukda,mookda,mugda,mookda | mukda,TRUE,TRUE
+TH2EN,จิตรดา,chitda,jitda,jittrada,chitrada | jitrada,FALSE,FALSE
+TH2EN,ปาณิสรา,panitsara,panisara,panissara,panisara | panitsara,TRUE,TRUE
+TH2EN,ตระกูล,trakul,trakoon,trakun,trakoon | trakul | trakun,TRUE,TRUE
+TH2EN,ซูไฮมี,suhaimee,suhaimi,suhimee,suhaimee | suhaimi,TRUE,TRUE
+TH2EN,ปฐมาพร,pattamaporn,patthamaphon,patamaporn,patamaporn | pathamaphon | pathamaporn | pattamaporn | patthamaphon | patthamaporn,TRUE,TRUE
+TH2EN,คำภีร์,khamphi,kampee,khampee,kamphee | khamphee | khamphi,TRUE,TRUE
+TH2EN,รัตยา,rattaya,radtaya,ruttaya,rattaya,TRUE,TRUE
+TH2EN,ณหทัย,nahathai,nahatai,nahatal,nahatai | nahathai,TRUE,TRUE
+TH2EN,วันทนี,wantanee,wanthani,wanthanee,wantanee | wanthanee | wanthani,TRUE,TRUE
+TH2EN,ธนูศักดิ์,thanusak,tanusak,thanoosak,tanusak | thanusak,TRUE,TRUE
+TH2EN,สุขสันต์,suksan,sukkasan,suksun,suksan,TRUE,TRUE
+TH2EN,สกุลตลา,sakuntala,sakultala,sakuntla,sakuntala,TRUE,TRUE
+TH2EN,มนัส,manat,manas,manus,manat,TRUE,TRUE
+TH2EN,เนติพงษ์,netiphong,netipong,natipong,nethipong | netiphong | netipong,TRUE,TRUE
+TH2EN,ปรารถนา,prattana,pratthana,pradtana,prarttana | prattana | pratthana,TRUE,TRUE
+TH2EN,ทิพย์วรรณ,tippawan,thippawan,thipwan,thipwan | tipwan,FALSE,TRUE
+TH2EN,บัลลังก์,banlang,bunlang,ballang,banlang | bunlang,TRUE,TRUE
+TH2EN,วรเศรษฐ์,woraset,woraseth,voraset,voraseth | woraset | worraset,TRUE,TRUE
+TH2EN,ธัญญะ,thanya,tanya,thunya,tanya | thanya | tunya,TRUE,TRUE
+TH2EN,ปวริศ,pawarit,pawaris,pavarit,pawarid | pawaris | pawarit,TRUE,TRUE
+TH2EN,ยิ่งศักดิ์,yingsak,yingsuk,yingsag,yingsak | yingsuk,TRUE,TRUE
+TH2EN,ณัฐวรรณ,nattawan,natthawan,nuttawan,nattawan | natthawan | nuttawan,TRUE,TRUE
+TH2EN,ธีรวัต,thirawat,teerawat,tirawat,teerawat | theerawat | thirawat,TRUE,TRUE
+TH2EN,ณัชชา,natcha,nutcha,nachcha,natcha | nutcha,TRUE,TRUE
+TH2EN,เกษราพร,kesaraporn,kesaraphon,kesarapon,kesaraphon | kesarapon | kesaraporn,TRUE,TRUE
+TH2EN,นันธิดา,nanthida,nunthida,nantida,nanthida | nunthida | nuntida,TRUE,TRUE
+TH2EN,รุจน์,rut,ruj,rud,rut,TRUE,TRUE
+TH2EN,ชญาน์นันท์,chayanan,chayanun,chayanant,chayanan | chayanun,TRUE,TRUE
+TH2EN,อภิฤดี,apiruedee,aphiruedi,apiruedi,aphiruedi | apiruedee,TRUE,TRUE
+TH2EN,อรุณรัศมี,arunratsamee,arunratsami,arunrassamee,arunrasamee | arunratsamee | arunratsami,TRUE,TRUE
+TH2EN,พรพงษ์,pornpong,phonphong,pornphong,phonphong | pornphong | pornpong,TRUE,TRUE
+TH2EN,สุธน,suthon,suton,suthorn,suthon,TRUE,TRUE
+TH2EN,พิเชต,phichet,pichet,piched,phichet | pichet,TRUE,TRUE
+TH2EN,วาริณี,warinee,warini,varinee,varinee | warinee | warini,TRUE,TRUE
+TH2EN,สรารัตน์,sararat,sararut,sararad,sararat,TRUE,TRUE
+TH2EN,อุดมศักดิ์,udomsak,udomsuk,audomsak,udomsak,TRUE,TRUE
+TH2EN,พัชญา,patchaya,phatchaya,pachaya,patchaya | phatchaya,TRUE,TRUE
+TH2EN,อนุวัตร,anuwat,anuvat,anuwad,anuvat | anuwat,TRUE,TRUE
+TH2EN,สิริการย์,sirikarn,sirikan,sirigarn,sirikan | sirikarn,TRUE,TRUE
+TH2EN,แพรพรรณ,phraephan,praepan,praephan,phraephan | praepan | praephan,TRUE,TRUE
+TH2EN,สุวิชาดา,suwichada,suvichada,suvishada,suvichada | suwichada,TRUE,TRUE
+TH2EN,วราพร,waraphon,waraporn,waraphorn,varaporn | waraphon | waraphorn,TRUE,TRUE
+TH2EN,พงษ์สิทธิ์,phongsit,pongsit,pongsith,phongsit | pongsit,TRUE,TRUE
+TH2EN,จักราวุุธ,chakrawut,chakkrawut,jakkrawut,chakkarawut | jakkarawut,FALSE,FALSE
+TH2EN,สิงห์,sing,singh,shing,sing,TRUE,TRUE
+TH2EN,พิชิต,pichit,phichit,pichid,phichit | pichit,TRUE,TRUE
+TH2EN,สมยศ,somyot,somyos,somyod,somyot,TRUE,TRUE
+TH2EN,ชัยยันต์,chaiyan,chaiyun,chaiyant,chaiyan | chaiyun,TRUE,TRUE
+TH2EN,มะดารี,madaree,madari,madalee,madaree | madari,TRUE,TRUE
+TH2EN,สุชาวลี,suchawalee,suchawali,suchavalee,suchawalee | suchawali,TRUE,TRUE
+TH2EN,นุชนาฏ,nutchanart,nutchanat,nuchchanat,nuchchanart | nutchanart | nutchanat,TRUE,TRUE
+TH2EN,ศรีพร,siphon,sriporn,sriphon,siphon | siphorn | siporn,TRUE,TRUE
+TH2EN,รัตดา,rattada,radtada,ratda,ratda,FALSE,TRUE
+TH2EN,ศรัณย์พร,saranporn,saranphon,saranphorn,saranphon | saranporn | sarunphorn,TRUE,TRUE
+TH2EN,ธนิต,thanit,tanit,thanid,tanid | tanit | thanit,TRUE,TRUE
+TH2EN,สุทธา,suttha,sutta,sudtha,suttha,TRUE,TRUE
+TH2EN,รัฐกรณ์,rattakorn,ratthakon,ratthakorn,rattakorn | ratthakon | ratthakorn,TRUE,TRUE
+TH2EN,พุทธรักษา,puttaraksa,puttharaksa,puttaruksa,phuttharaksa | puttaraksa | puttaruksa,TRUE,TRUE
+TH2EN,ภาริณี,parinee,pharini,parini,parinee | pharini,TRUE,TRUE
+TH2EN,สุภาวรรณ,suphawan,supawan,suphawun,supawan | suphawan,TRUE,TRUE
+TH2EN,ดือราแม,dueramae,duerame,duramae,dueramae,TRUE,TRUE
+TH2EN,เรวัต,rewat,revat,rewad,revat | rewat,TRUE,TRUE
+TH2EN,ตวงรัตน์,tuangrat,toungrat,tuangrut,tuangrat | tuangrut,TRUE,TRUE
+TH2EN,ณฤดี,naruedee,naruedi,narudee,naruedi,FALSE,TRUE
+TH2EN,พัชรพงษ์,patcharapong,patcharaphong,phatcharapong,patcharaphong | patcharapong | phatcharaphong,TRUE,TRUE
+TH2EN,ชวิน,chawin,chavin,shawin,chavin | chawin,TRUE,TRUE
+TH2EN,ดำรงพล,damrongphon,damrongpol,dumrongpol,damrongphon | dhumrongpol | dumrongphol,TRUE,TRUE
+TH2EN,ยอดยิ่ง,yodying,yotying,yordying,yodying | yordying | yotying,TRUE,TRUE
+TH2EN,วรรษา,wansa,vansa,wassa,wassa | watsa,FALSE,TRUE
+TH2EN,ประภาภรณ์,prapaporn,praphaphon,praphaporn,prapaporn | praphaphon | praphaporn,TRUE,TRUE
+TH2EN,จันทร์ประภา,chanprapa,janprapa,janprapha,chanprapa | chanprapha | janprapha,TRUE,TRUE
+TH2EN,ทศวรรษ,thotsawat,todsawat,thodsawat,thodsawat | todsawad | tossawat,FALSE,TRUE
+TH2EN,วาทิน,wathin,watin,vatin,vathin | vatin | wathin,TRUE,TRUE
+TH2EN,วสุพล,wasuphon,wasupol,wasuphol,vasuphon | wasuphon | wasupon,TRUE,TRUE
+TH2EN,ภานุกร,panukorn,phanukon,panukon,panukon | panukorn | phanukon,TRUE,TRUE
+TH2EN,วรายุส,warayut,warayus,varayut,varayus | warayus | warayut,TRUE,TRUE
+TH2EN,ชวนพิศ,chuanphit,chuanpit,chuanpis,chuanphit | chuanpis | chuanpit,TRUE,TRUE
+TH2EN,ปรมินทร์,poramin,porramin,paramin,poramin,TRUE,TRUE
+TH2EN,นิษา,nisa,nisar,nisah,nisa,TRUE,TRUE
+TH2EN,อุดมชัย,udomchai,audomchai,oudomchai,udomchai,TRUE,TRUE
+TH2EN,เพียงฤทัย,piangruethai,piangruetai,piangruthai,phiangruethai | piangruethai,TRUE,TRUE
+TH2EN,ศรีแพร,siphrae,sriprae,sriphae,siphrae | sriprae,TRUE,TRUE
+TH2EN,วราห์,wara,vara,varah,vara | wara,TRUE,TRUE
+TH2EN,ศิริพล,siriphon,siripol,siriphol,siriphol | siriphon | siripon,TRUE,TRUE
+TH2EN,ชัด,chat,chad,chut,chad | chat,TRUE,TRUE
+TH2EN,ยุทธศักดิ์,yutthasak,yuttasak,yutthasuk,yuttasak | yutthasak,TRUE,TRUE
+TH2EN,อังกูร,angkoon,angkun,angkul,angkoon | angkun,TRUE,TRUE
+TH2EN,วิทวัส,witthawat,wittawat,vittawat,vittawat | wittawat | witthawat,TRUE,TRUE
+TH2EN,ผกาพันธ์,pakapan,pakaphan,phakapan,pakaphan | phakapan | phakaphan,FALSE,TRUE
+TH2EN,วีณา,wina,veena,weena,veena | weena | wina,TRUE,TRUE
+TH2EN,ชินวัตร,chinnawat,chinnawad,chinnavat,chinnawat,TRUE,TRUE
+TH2EN,รอมลี,romlee,romli,rormlee,romlee | romli,TRUE,TRUE
+TH2EN,วชิรพงศ์,wachiraphong,wachirapong,vachirapong,vachiraphong | wachiraphong | wachirapong,TRUE,TRUE
+TH2EN,พัฒน์พงศ์,phatphong,patpong,patphong,patphong | patpong | phatphong,TRUE,TRUE
+TH2EN,พัชร์สิตา,patsita,phatsita,patchsita,patsita | phatsita,TRUE,TRUE
+TH2EN,อรรนพ,annop,annob,unnop,annop,TRUE,TRUE
+TH2EN,อัครวัฒน์,akkarawat,akkarawad,akkaravat,akkaravat | akkarawat | akkharawat,TRUE,TRUE
+TH2EN,ฟองแก้ว,fongkaew,fongkaeo,fongkeaw,fongkaeo | fongkaew,TRUE,TRUE
+TH2EN,นฤเทพ,naruethep,naruetep,naruthep,naruetep | naruethep,TRUE,TRUE
+TH2EN,สมภพ,somphop,somphob,sompop,somphob | somphop,TRUE,TRUE
+TH2EN,ผจญ,phachon,pachon,pajon,pachon | phachon,TRUE,TRUE
+TH2EN,ลักษณา,laksana,lucksana,luksana,laksana | luksana,TRUE,TRUE
+TH2EN,นคร,nakhon,nakorn,nakon,nakhon | nakorn,TRUE,TRUE
+TH2EN,ธัญญ์นภัส,tannapat,thannapat,tannapas,tannapas | thannapas | thannaphat,FALSE,TRUE
+TH2EN,ธนา,thana,tana,thanar,tana | thana,TRUE,TRUE
+TH2EN,วรัชยา,waratchaya,varatchaya,varachaya,varatchaya | waratchaya,TRUE,TRUE
+TH2EN,ประกาศ,prakat,prakart,prakas,prakart | prakat,TRUE,TRUE
+TH2EN,นุจรินทร์,nutcharin,nujarin,nucharin,nucharin | nujarin,FALSE,TRUE
+TH2EN,รำไพพรรณ,ramphaiphan,rampaipan,rampaiphan,rampaipan | ramphaiphan,TRUE,TRUE
+TH2EN,ศิรินทิพย์,sirinthip,sirintip,sirinatip,sirinthip | sirintip,TRUE,TRUE
+TH2EN,ณัฐศักดิ์,natthasak,nattasak,nuttasak,nattasak | natthasak | nuttasak,TRUE,TRUE
+TH2EN,อิทธิพล,ittipol,ittipon,itthipol,itthiphon | ittipol | ittipon,TRUE,TRUE
+TH2EN,คำสิงห์,khamsing,kamsing,kumsing,kamsing | khamsing | khamsingh,TRUE,TRUE
+TH2EN,นันท์นภัส,nannaphat,nannapat,nannapas,nannapas | nannapat | nannaphat,TRUE,TRUE
+TH2EN,อนัส,anat,anas,anus,anat,TRUE,TRUE
+TH2EN,สุราษฎร์,surat,surad,suras,surad | surat,TRUE,TRUE
+TH2EN,วาศิณี,wasinee,wasini,vasinee,vasinee | wasinee | wasini,TRUE,TRUE
+TH2EN,นนทิยา,nonthiya,nontiya,nonteeya,nonthiya | nontiya,TRUE,TRUE
+TH2EN,นวลอนงค์,nuananong,nualanong,nuan-anong,nuananong,TRUE,TRUE
+TH2EN,เตือนตา,tueanta,tuanta,tuenta,tueanta,TRUE,TRUE
+TH2EN,วิทยากร,witthayakon,wittayakorn,vittayakorn,vitayakorn | witthayakon | witthayakorn,TRUE,TRUE
+TH2EN,เพียงขวัญ,phiangkhwan,piangkwan,piangkhwan,phiangkhwan | piangkhwan | piangkwan,TRUE,TRUE
+TH2EN,ปรเมศ,poramet,porames,poramed,poramed | porames | poramet,TRUE,TRUE
+TH2EN,อ้อยใจ,oichai,oijai,oyjai,aoijai | oichai | oijai,TRUE,TRUE
+TH2EN,มนต์ทิพย์,monthip,montip,molthip,monthip | montip,TRUE,TRUE
+TH2EN,ธนภูมิ,tanapoom,thanaphum,thanapoom,thanabhum | thanaphum | thanapoom,FALSE,TRUE
+TH2EN,พีรพันธ์,phiraphan,peerapan,peeraphan,peerapan | phiraphan | pirapan,TRUE,TRUE
+TH2EN,นวพล,nawaphon,nawapol,nawaphol,nawaphon | nawapon,TRUE,TRUE
+TH2EN,ปราการ,prakarn,prakan,pragarn,prakan | prakarn,TRUE,TRUE
+TH2EN,ธนาคาร,thanakhan,thanakarn,tanakarn,tanakarn | thanakarn | thanakhan,TRUE,TRUE
+TH2EN,ขวัญชนก,khwanchanok,kwanchanok,kwunchanok,khwanchanok | kwanchanok,TRUE,TRUE
+TH2EN,ดรุวรรณ,daruwan,daruvan,daruwun,daruwan,TRUE,TRUE
+TH2EN,ธนาวัฒน์,thanawat,tanawat,tanavat,tanawad | tanawat | thanawat,TRUE,TRUE
+TH2EN,เปมิกา,pemika,pemiga,pamika,pemika,TRUE,TRUE
+TH2EN,เฉลิมชาติ,chaloemchat,chaloemchart,chalermchart,chaloemchat,TRUE,TRUE
+TH2EN,พิสิฏฐ์,phisit,pisit,pisith,phisit | pisit,TRUE,TRUE
+TH2EN,จรีภรณ์,chariphon,jareeporn,jareephorn,chariphon | jareephorn | jareeporn,TRUE,TRUE
+TH2EN,ดนัย,danai,danal,danay,danai,TRUE,TRUE
+TH2EN,ประสิทธิ,prasit,prasith,prasid,prasit,TRUE,TRUE
+TH2EN,รสลิน,rodsalin,rotsalin,rossalin,rodsalin | rotsalin,TRUE,TRUE
+TH2EN,อาแว,awae,arwae,avae,aawae | awae,TRUE,TRUE
+TH2EN,สุลีพร,suleeporn,suliphon,suliporn,suleepon | suleeporn | suliphon,TRUE,TRUE
+TH2EN,วรวิทย์,worawit,vorawit,worrawit,vorawit | worawit | worrawit,TRUE,TRUE
+TH2EN,สุระสิทธิ์,surasit,surasith,surasid,surasit | surasith,TRUE,TRUE
+TH2EN,มนัญญา,mananya,manunya,manhanya,mananya,TRUE,TRUE
+TH2EN,จิตรานุช,jittranuch,chittranut,jittranut,chittranut | jittranuch | jittranut,TRUE,TRUE
+TH2EN,ปทุมมา,pathumma,patumma,patoomma,pathumma | patumma,TRUE,TRUE
+TH2EN,ปิยมาภรณ์,piyamaporn,piyamaphon,piyamaphorn,piyamaphon | piyamaphorn | piyamaporn,TRUE,TRUE
+TH2EN,สุวัฒน์ชัย,suwatchai,suvatchai,suwadchai,suvatchai | suwatchai,TRUE,TRUE
+TH2EN,สุพศิน,suppasin,suphasin,supasin,suppasin | supphasin,TRUE,TRUE
+TH2EN,วัชรชัย,watcharachai,vatcharachai,wacharachai,vatcharachai | watcharachai,TRUE,TRUE
+TH2EN,ประพฤติ,praphruet,prapruet,praparuet,praphruet | prapruet,TRUE,TRUE
+TH2EN,ชัยชนะ,chaichana,chichana,chaishana,chaichana,TRUE,TRUE
+TH2EN,เมธิชัย,methichai,metichai,mathichai,methichai | metichai,TRUE,TRUE
+TH2EN,ทวีเดช,thawidet,taweedech,thaweedet,taweedet | thawidech | thawidet,TRUE,TRUE
+TH2EN,จันทนี,chanthani,chantanee,jantanee,chantanee | chanthani | janthanee,TRUE,TRUE
+TH2EN,สรณัฐ,soranat,soranut,sorranat,soranat | soranut,TRUE,TRUE
+TH2EN,ศศิวิมล,sasiwimon,sasivimon,sasivimol,sasiwimol | sasiwimon,TRUE,TRUE
+TH2EN,ญาดา,yada,yaada,yadah,yada,TRUE,TRUE
+TH2EN,ยาวาเฮ,yawahe,yavahe,yawahay,yawahae | yawahe,TRUE,TRUE
+TH2EN,พิชญะ,pitchaya,phitchaya,pichaya,phitchaya | pitchaya,TRUE,TRUE
+TH2EN,มะแอ,maae,ma-ae,mahae,maae,TRUE,TRUE
+TH2EN,คุณาวุฒิ,kunawut,khunawut,kunavut,khunawut | kunawut,TRUE,TRUE
+TH2EN,อิทธิพร,itthiphon,ittiporn,itthiporn,itthiphon | itthiporn | ittiporn,TRUE,TRUE
+TH2EN,ภาคินัย,phakhinai,pakinai,phakinai,pakinai | phakhinai,TRUE,TRUE
+TH2EN,ชยาภรณ์,chayaphon,chayaporn,chayapon,chayaphon | chayaphorn | chayaporn,TRUE,TRUE
+TH2EN,พันทิพา,pantipa,panthipa,panthipha,pantipa | phanthipha | phantipa,TRUE,TRUE
+TH2EN,ณัฐชนา,natchana,nutchana,nadchana,natchana | nutchana,TRUE,TRUE
+TH2EN,จิรชยา,jirachaya,chirachaya,chinchaya,chirachaya | jirachaya,TRUE,TRUE
+TH2EN,ธิติยา,thitiya,titiya,thithiya,thitiya | titiya,TRUE,TRUE
+TH2EN,พรฤทัย,pornruethai,phonruethai,pornruetai,phonruethai | pornruetai | pornruethai,TRUE,TRUE
+TH2EN,มารียะ,mariya,mareeya,mariyah,mareeya | mariya,TRUE,TRUE
+TH2EN,วรท,warot,warod,varot,varot | warot,TRUE,TRUE
+TH2EN,อดินันต์,adinan,adinun,adinant,adinan | adinand | adinant,TRUE,TRUE
+TH2EN,ฮูดา,huda,hooda,houda,huda | huuda,TRUE,TRUE
+TH2EN,รณยุทธ,ronnayut,ronnayud,ronyuth,ronnayut,TRUE,TRUE
+TH2EN,พัชรพล,patcharapon,patcharapol,patcharaphon,patcharapon | phatcharaphon | phatcharapon,TRUE,TRUE
+TH2EN,นฤพล,naruepol,naruepon,naruphon,naruephon | naruepol | naruepon,TRUE,TRUE
+TH2EN,ดวงฤทัย,duangruethai,duangruetai,duangruthai,daungruetai | duangruethai | duangruthai,TRUE,TRUE
+TH2EN,นวลพรรณ,nuanphan,nuanpan,nualphan,nuanpan | nuanphan,TRUE,TRUE
+TH2EN,พิลาสลักษณ์,philasalak,pilasalak,philatlak,philatlak | pilartlak | pilatlak,FALSE,TRUE
+TH2EN,สิทธิชาติ,sitthichat,sittichart,sittichat,sithichart | sitthichart | sitthichat,TRUE,TRUE
+TH2EN,รุจิภา,rujipa,rujipha,ruchipa,ruchipa | ruchipha | rujipha,FALSE,TRUE
+TH2EN,จิรเมธ,jiramet,chiramet,jirameth,chiramet | jiramet | jirameth,TRUE,TRUE
+TH2EN,อัฟฟาน,affan,affarn,apfan,affan | apfan,TRUE,TRUE
+TH2EN,ราเชน,rachen,rachain,rashen,rachain | rachen,TRUE,TRUE
+TH2EN,พรณภา,pornnapa,phonnapha,pornnapha,phonnapha | pornnapa | pornnapha,TRUE,TRUE
+TH2EN,ปารดา,parada,panda,parrada,parada,TRUE,TRUE
+TH2EN,ขจรศักดิ์,khachonsak,kajornsak,khajornsak,kajornsak | khachonsak | khajornsak,TRUE,TRUE
+TH2EN,สุดเขต,sutkhet,sudket,sutket,sudked | sudkhet | sutkhet,TRUE,TRUE
+TH2EN,มนู,manu,manoo,manou,manoo | manu,TRUE,TRUE
+TH2EN,ทิพย์ภาพร,thipphaphon,tippaporn,thippaporn,thippapon | thipphaphon | tippaporn,TRUE,TRUE
+TH2EN,นิภาวรรณ์,niphawan,nipawan,niphawun,nipawan | niphawan,TRUE,TRUE
+TH2EN,ชัยพฤกษ์,chaiyapruek,chaiyapruk,chaipruek,chaiyaphruek | chaiyaphuek | chaiyapruek,TRUE,TRUE
+TH2EN,พงษ์พันธ์,pongpan,pongphan,phongpan,phongphan | pongpan | pongphan,TRUE,TRUE
+TH2EN,อัจฉราวดี,atcharawadee,atcharawadi,atcharavadee,adcharawadee | atcharawadee | atcharawadi,TRUE,TRUE
+TH2EN,พิชัย,pichai,phichai,pechai,phichai | pichai,TRUE,TRUE
+TH2EN,สมศรี,somsri,somsi,somsee,somsi | somsri,TRUE,TRUE
+TH2EN,นิภากร,niphakorn,nipakorn,niphakon,nipakorn | niphakon | niphakorn,TRUE,TRUE
+TH2EN,นเรศร์,naret,nares,nared,nares | naret,TRUE,TRUE
+TH2EN,อัครวุฒิ,akkarawut,akkharawut,akkaravut,akkaravuth | akkarawut | akkharawut,TRUE,TRUE
+TH2EN,อภินัทธ์,aphinat,apinat,apinut,aphinat | apinat,TRUE,TRUE
+TH2EN,สุดธิดา,sutthida,sudthida,suttida,sudthida | sutthida,TRUE,TRUE
+TH2EN,ภัคจิรา,pakjira,phakjira,pakchira,pakchira | pakjira | phakchira,TRUE,TRUE
+TH2EN,ภาคินี,phakhini,pakinee,phakinee,pakinee | pakini | phakhini,TRUE,TRUE
+TH2EN,สุธิพงษ์,suthiphong,suthipong,sutipong,suthiphong | suthipong,TRUE,TRUE
+TH2EN,สุพรรณิกา,suphannika,supannika,supunnika,supannika | suphannika,TRUE,TRUE
+TH2EN,สุทธิพงษ์,sutthiphong,suttipong,sutthipong,sutthiphong | sutthipong,TRUE,TRUE
+TH2EN,โกลัญญา,kolanya,kolunya,golanya,kolanya,TRUE,TRUE
+TH2EN,เมธินี,methinee,methini,metinee,methinee | methini | metinee,TRUE,TRUE
+TH2EN,วีรชน,wirachon,weerachon,veerachon,weerachon | werachon | wirachon,TRUE,TRUE
+TH2EN,ลักคณา,lakkana,lakkhana,lukkana,lakkana | lakkhana,TRUE,TRUE
+TH2EN,สุวิษา,suwisa,suvisa,suwisar,suvisa | suwisa,TRUE,TRUE
+TH2EN,เบญจพล,benjapol,benjapon,benjaphon,benchaphon | benjaphon | benjapol,TRUE,TRUE
+TH2EN,เกสร,keson,kesorn,gesorn,keson | kesorn,TRUE,TRUE
+TH2EN,คฑาวุธ,kathawut,katawut,khatawut,kathawut | khatawut | khathawut,TRUE,TRUE
+TH2EN,อมฤต,amarit,amarid,amarith,amarit | amarith,TRUE,TRUE
+TH2EN,นงนารถ,nongnart,nongnat,nongnard,nongnart | nongnat,TRUE,TRUE
+TH2EN,สุนันทา,sunantha,sunanta,sununta,sunantha | sununtha,TRUE,TRUE
+TH2EN,ไทยรัฐ,thairat,thairut,tairat,thairat | thairath,TRUE,TRUE
+TH2EN,นาง,nang,naang,narng,nang | narng,TRUE,TRUE
+TH2EN,สรวุฒิ,sorawut,soravut,sorawuth,soravut | sorawut,TRUE,TRUE
+TH2EN,สิทธิพล,sittipol,sitthipol,sittipon,sitthiphol | sitthiphon | sitthipol,FALSE,TRUE
+TH2EN,จักรภัทร,jakkrapat,chakkrapat,jakkraphat,chakkapat | chakkaphat | jakkaphat,FALSE,FALSE
+TH2EN,นันทภพ,nantaphop,nantapop,nantapob,nantapob | nanthaphop | nuntapob,FALSE,TRUE
+TH2EN,ธราธร,tharathon,taratorn,tarathorn,taraton | taratorn | tharathon,TRUE,TRUE
+TH2EN,วีระชน,weerachon,wirachon,veerachon,veerachon | weerachon | wirachon,TRUE,TRUE
+TH2EN,นครินทร์,nakarin,nakharin,nakkarin,nakarin | nakharin,TRUE,TRUE
+TH2EN,แมน,maen,man,men,maen | man,TRUE,TRUE
+TH2EN,พิศเพลิน,phitphloen,pitploen,pitsaploen,phitphloen | phitplern | pitplern,TRUE,TRUE
+TH2EN,รจนา,rotchana,rodjana,rotjana,rodjana | rotchana | rotjana,TRUE,TRUE
+TH2EN,จันจิรา,janjira,chanjira,junjira,chanchira | janjira,TRUE,TRUE
+TH2EN,นิพิฐพนธ์,niphitphon,nipitpon,nipitphon,niphitphon | nipitphon | nipitpon,TRUE,TRUE
+TH2EN,ศกลวรรณ,sakonwan,sakonlawan,sakolwan,sakolwan | sakonwan,TRUE,TRUE
+TH2EN,เสฏฐวุฒิ,setthawut,settawut,settavut,settavut | settawut | setthawut,TRUE,TRUE
+TH2EN,ธีระวัฒน์,thirawat,teerawat,tirawat,teerawat | theerawat | thirawat,TRUE,TRUE
+TH2EN,เวชยันต์,wetchayan,vetchayan,vechayan,wechayan | wetchayan,TRUE,TRUE
+TH2EN,ธีระศักดิ์,thirasak,teerasak,theerasak,teerasak | theerasak | thirasak,TRUE,TRUE
+TH2EN,สิริภรณ์,siriporn,siriphon,siripon,siriphon | siriphorn | siriporn,TRUE,TRUE
+TH2EN,ธัญนันท์,thanyanan,tanyanan,tanyanun,tanyanan | thanyanan | thunyanan,TRUE,TRUE
+TH2EN,ภิเษก,phisek,pisek,pisake,phisek | pisek,TRUE,TRUE
+TH2EN,พัชรวรรณ,patcharawan,phatcharawan,patcharawun,patcharavan | patcharawan | phatcharawan,TRUE,TRUE
+TH2EN,พัสกร,patsakorn,phatsakon,passakorn,patsakorn | phatsakhon | phatsakorn,TRUE,TRUE
+TH2EN,ดวงมณี,duangmanee,duangmani,doungmanee,duangmanee | duangmani,TRUE,TRUE
+TH2EN,ภัทรฤทัย,pattararuetai,pattararuethai,pattararutai,pattararuetai | pattararuethai | phatthararuethai,TRUE,TRUE
+TH2EN,วีรยุทธ,wirayut,veerayut,weerayut,veerayut | weerayuth | wirayut,TRUE,TRUE
+TH2EN,จิรนุช,jiranuch,chiranut,jiranut,chiranut | jiranuch | jiranut,TRUE,TRUE
+TH2EN,จักราวุธ,chakkrawut,chakrawut,jakkrawut,chakkrawut | jakkrawut,TRUE,TRUE
+TH2EN,ธนิตย์,thanit,tanit,thanid,tanid | tanit | thanit,TRUE,TRUE
+TH2EN,พัฒนศักดิ์,pattanasak,phatthanasak,pattanasuk,pattanasak | phatthanasak,TRUE,TRUE
+TH2EN,เปี๊ยก,piak,peak,piek,piak,TRUE,TRUE
+TH2EN,ราณี,rani,ranee,rane,ranee | rani,TRUE,TRUE
+TH2EN,พศวัต,phasawat,pasawat,potsawat,photsawat | potsavat | potsawat,FALSE,TRUE
+TH2EN,บุญญาพร,bunyaphon,bunyaporn,boonyaporn,bunyaphon | bunyaphorn | bunyaporn,TRUE,TRUE
+TH2EN,ชยพล,chayaphon,chayapol,chayaphol,chayaphon | chayapol | chayapon,TRUE,TRUE
+TH2EN,ปัญจะ,pancha,panja,puncha,pancha | panja,TRUE,TRUE
+TH2EN,พิเชษ,phichet,pichet,piched,phichet | pichet,TRUE,TRUE
+TH2EN,ลำเจียก,lamchiak,lamjiak,lumjiak,lamchiak | lamjiak,TRUE,TRUE
+TH2EN,แตง,taeng,tang,teang,taeng | tang,TRUE,TRUE
+TH2EN,พรรณพิมล,panpimon,panpimol,phanpimon,panpimon | phanphimon | phanpimon,TRUE,TRUE
+TH2EN,เกศกนก,ketkanok,keskanok,kedkanok,keskanok | ketkanok,TRUE,TRUE
+TH2EN,สากล,sakon,sakol,sagol,sakol | sakon,TRUE,TRUE
+TH2EN,สุทธิวัฒน์,sutthiwat,suttiwat,sudthiwat,sutthiwat,TRUE,TRUE
+TH2EN,นลิตา,nalita,narita,nalitha,nalita,TRUE,TRUE
+TH2EN,อัครวินท์,akkarawin,akkharawin,akkaravin,akkaravin | akkarawin | akkharawin,TRUE,TRUE
+TH2EN,สมเดช,somdech,somdet,somdej,somdech | somdet,TRUE,TRUE
+TH2EN,ผการัตน์,phakarat,pakarat,pakarut,pakarat | phakarat,TRUE,TRUE
+TH2EN,ยอดธง,yotthong,yodthong,yodtong,yodthong | yordtong | yotthong,TRUE,TRUE
+TH2EN,หนึ่งนุช,nuengnut,nuengnuch,nungnuch,nuengnuch | nuengnut,TRUE,TRUE
+TH2EN,นันทพล,nantapol,nantapon,nanthapol,nantapol | nanthaphon | nuntapol,TRUE,TRUE
+TH2EN,ชลิดา,chalida,charida,chalidar,chalida,TRUE,TRUE
+TH2EN,วรุณยุภา,warunyupha,warunyupa,varunyupa,varunyupa | warunyupa | warunyupha,TRUE,TRUE
+TH2EN,พรประเสริฐ,pornprasert,phonprasoet,pornprasoet,phonprasoet | pornprasert,TRUE,TRUE
+TH2EN,ธนพนธ์,tanapon,thanapon,tanaphon,tanapon | thanaphon | thanapon,TRUE,TRUE
+TH2EN,ดำรัส,damrat,damras,dumrat,damras | damrat | dumras,TRUE,TRUE
+TH2EN,โสภาพร,sophaphon,sopaporn,sophaporn,sopaphon | sopapon | sophaphon,TRUE,TRUE
+TH2EN,แพรวา,praewa,phraewa,praeva,phraewa | praewa | praewwa,TRUE,TRUE
+TH2EN,เพ็ญศรี,pensri,phensi,phensri,pensri | phensi | phensri,TRUE,TRUE
+TH2EN,ธีระวุฒิ,thirawut,teerawut,theerawut,teerawut | theerawut | thirawut,TRUE,TRUE
+TH2EN,จันทภา,chantapa,jantapa,chantapha,chanthapha | jantapa | janthapha,FALSE,TRUE
+TH2EN,สุฑารัตน์,sutharat,sutarat,sutharut,sutarat | sutharat,TRUE,TRUE
+TH2EN,อุเซ็ง,useng,auseng,usaeng,useng,TRUE,TRUE
+TH2EN,ธวัลรัตน์,thawanrat,tawanrat,tawalrat,tawalrat | tawanrat | thawanrat,TRUE,TRUE
+EN2TH,benchamat,เบญจมาศ,เบญจมาส,เบ็ญจมาศ,เบญจมาศ,TRUE,TRUE
+EN2TH,benjamat,เบญจมาศ,เบญจมาส,เบ็ญจมาศ,เบญจมาศ,TRUE,TRUE
+EN2TH,benjamas,เบญจมาศ,เบญจมาส,เบ็ญจมาศ,เบญจมาศ,TRUE,TRUE
+EN2TH,phrimphrao,พริ้มพร้าว,พริมพร้าว,พริมพราว,พริ้มเพรา,FALSE,FALSE
+EN2TH,primphrao,พริ้มพร้าว,พริมพร้าว,พริมพราว,พริ้มเพรา,FALSE,FALSE
+EN2TH,primprao,พริมพร้าว,พริมพราว,พริ้มเพรา,พริ้มเพรา,FALSE,TRUE
+EN2TH,rutsani,รุสนี,รุสนีย์,รุษณี,รุสนี,TRUE,TRUE
+EN2TH,rutsanee,รุสนี,รุสนีย์,รัศนี,รุสนี,TRUE,TRUE
+EN2TH,nitchaphat,ณิชภัทร,ณิชชาภัทร,ณิชชาพัชร,ณิชชาภัทร,FALSE,TRUE
+EN2TH,nitchapat,ณิชภัทร,ณิชชาภัทร,ณิชชาพัชร,ณิชชาภัทร,FALSE,TRUE
+EN2TH,pasuta,พสุตา,พสุธา,ภาสุตา,ปสุตา,FALSE,FALSE
+EN2TH,thanisara,ธนิสรา,ธนิศรา,ฐานิสรา,ธนิสรา,TRUE,TRUE
+EN2TH,tanisara,ธนิสรา,ธนิศรา,ฐานิสรา,ธนิสรา,TRUE,TRUE
+EN2TH,ratima,รติมา,รตีมา,ราติมา,รติมา,TRUE,TRUE
+EN2TH,wiset,วิเศษ,วิเสษ,วิเศษฐ์,วิเศษ,TRUE,TRUE
+EN2TH,viseth,วิเศษ,วิเศรษฐ,วิเศษh,วิเศษ,TRUE,TRUE
+EN2TH,wiseth,วิเศษ,วิเศษh,วิเศรษฐ,วิเศษ,TRUE,TRUE
+EN2TH,phakkawadi,ภัควดี,ผักกาวดี,พรรควดี,ภัควดี,TRUE,TRUE
+EN2TH,pakkawadee,ภัควดี,ปักกาวดี,ปากกาวดี,ภัควดี,TRUE,TRUE
+EN2TH,walailak,วลัยลักษณ์,วลัยลักษ์,วไลลักษณ์,วไลลักษณ์,FALSE,TRUE
+EN2TH,walailuck,วลัยลักษณ์,วลัยลักษ์,วไลลักษณ์,วไลลักษณ์,FALSE,TRUE
+EN2TH,walailuk,วลัยลักษ์,วไลลักษณ์,วลัยรักษ์,วไลลักษณ์,FALSE,TRUE
+EN2TH,thiranai,ธีรนัย,ธีระนัย,ถิรนัย,ธีรนัย,TRUE,TRUE
+EN2TH,teeranai,ธีรนัย,ธีระนัย,ธีระไนย,ธีรนัย,TRUE,TRUE
+EN2TH,tiranai,ธีรนัย,ธีระนัย,ถิรนัย,ธีรนัย,TRUE,TRUE
+EN2TH,phaithun,ไพฑูรย์,ไพทูรย์,ไพฑูลย์,ไพฑูรย์,TRUE,TRUE
+EN2TH,paitoon,ไพฑูรย์,ไพทูรย์,ไพฑูลย์,ไพฑูรย์,TRUE,TRUE
+EN2TH,paitun,ไพฑูรย์,ไพทูรย์,ไพฑูลย์,ไพฑูรย์,TRUE,TRUE
+EN2TH,atchari,อัจฉรี,อัจฉรีย์,อัจจรีย์,อัจฉรีย์,FALSE,TRUE
+EN2TH,adcharee,อัจฉรี,อัจจรี,อัจรีย์,อัจฉรีย์,FALSE,FALSE
+EN2TH,atcharee,อัจฉรี,อัจฉรีย์,อัจจรีย์,อัจฉรีย์,FALSE,TRUE
+EN2TH,duangthida,ดวงธิดา,ด้วงธิดา,ดวงธีดา,ดวงธิดา,TRUE,TRUE
+EN2TH,duangtida,ดวงธิดา,ด้วงธิดา,ด๊วงธิดา,ดวงธิดา,TRUE,TRUE
+EN2TH,mananya,มนัญญา,มณัญญา,มนัญยา,มนันยา,FALSE,FALSE
+EN2TH,supphamit,ศุภมิตร,ศุภมิตร์,สุภมิตร,ศุภมิตร,TRUE,TRUE
+EN2TH,suphamit,สุภามิตร,ศุภมิตร,สุภมิตร,ศุภมิตร,FALSE,TRUE
+EN2TH,suppamit,ศุภมิตร,สุภมิตร,ศุภมิตร์,ศุภมิตร,TRUE,TRUE
+EN2TH,walailak,วลัยลักษณ์,วลัยลักษ์,วไลลักษณ์,วลัยลักษณ์,TRUE,TRUE
+EN2TH,walailuck,วลัยลักษณ์,วลัยลักษ์,วไลลักษณ์,วลัยลักษณ์,TRUE,TRUE
+EN2TH,walailuk,วลัยลักษ์,วไลลักษณ์,วลัยรักษ์,วลัยลักษณ์,FALSE,FALSE
+EN2TH,wongduean,วงศ์เดือน,วงษ์เดือน,วงค์เดือน,วงเดือน,FALSE,FALSE
+EN2TH,vongduean,วงศ์เดือน,วงษ์เดือน,วงค์เดือน,วงเดือน,FALSE,FALSE
+EN2TH,sonthi,สนธิ,สนธี,สนทิ,สนธิ,TRUE,TRUE
+EN2TH,songkrot,ทรงกรด,ทรงโครต,ทรงโกรธ,ทรงกรด,TRUE,TRUE
+EN2TH,songkot,ทรงกฎ,ทรงกช,ทรงกต,ทรงกรด,FALSE,FALSE
+EN2TH,songkhot,ทรงคต,สงคต,สงโคตร,ทรงกรด,FALSE,FALSE
+EN2TH,norathep,นรเทพ,นราเทพ,นระเทพ,นรเทพ,TRUE,TRUE
+EN2TH,noratep,นรเทพ,นรทีปต์,โนราเทพ,นรเทพ,TRUE,TRUE
+EN2TH,wilairak,วิไลรักษ์,วิลัยรักษ์,วิไลรัก,วิไลรักษ์,TRUE,TRUE
+EN2TH,vilairak,วิไลรักษ์,วิลัยรักษ์,วิไลรัก,วิไลรักษ์,TRUE,TRUE
+EN2TH,praphat,ประพัฒน์,ประภาส,ประพัทธ์,ประพาส,FALSE,FALSE
+EN2TH,prapas,ประภาส,ประภาศ,ประภัส,ประพาส,FALSE,FALSE
+EN2TH,praphas,ประภาส,ประภาศ,ประภัส,ประพาส,FALSE,FALSE
+EN2TH,samat,สามารถ,สมัชญ์,สมาร์ท,สามารถ,TRUE,TRUE
+EN2TH,samart,สามารถ,สมาร์ท,สมารถ,สามารถ,TRUE,TRUE
+EN2TH,chiradet,จิระเดช,จิรเดช,จีระเดช,จีระเดช,FALSE,TRUE
+EN2TH,jiradet,จิรเดช,จิระเดช,จีระเดช,จีระเดช,FALSE,TRUE
+EN2TH,jiradech,จิรเดช,จิระเดช,จีระเดช,จีระเดช,FALSE,TRUE
+EN2TH,thitimon,ฐิติมน,ฐิติมนต์,ฐิติมณฑ์,ฐิติมน,TRUE,TRUE
+EN2TH,atchari,อัจฉรี,อัจฉรีย์,อัจจรีย์,อัชรี,FALSE,FALSE
+EN2TH,adcharee,อัจฉรี,อัจจรี,อัจรีย์,อัชรี,FALSE,FALSE
+EN2TH,atcharee,อัจฉรี,อัจฉรีย์,อัจจรีย์,อัชรี,FALSE,FALSE
+EN2TH,sirinan,ศิรินันท์,สิรินันท์,สิรินัน,สิรินันท์,FALSE,TRUE
+EN2TH,sirinun,ศิรินันท์,สิรินันท์,สิรินัน,สิรินันท์,FALSE,TRUE
+EN2TH,sathit,สาธิต,สถิตย์,สถิต,สถิต,FALSE,TRUE
+EN2TH,satit,สาธิต,สถิตย์,สถิต,สถิต,FALSE,TRUE
+EN2TH,churailak,จุไรลักษณ์,จุไรลักษ์,ชุไรลักษณ์,จุไรลักษณ์,TRUE,TRUE
+EN2TH,jurailak,จุไรลักษณ์,จุไรลักษ์,จุไรรักษ์,จุไรลักษณ์,TRUE,TRUE
+EN2TH,churailuk,จุไรลักษ์,จุไรลุก,จุไรลูก,จุไรลักษณ์,FALSE,FALSE
+EN2TH,wisit,วิศิษฐ์,วิศิษฐ,วิศิษฏ์,วิศิษฎ์,FALSE,FALSE
+EN2TH,wisith,วิศิษฐ์,วิศิษฐ,วิศิษฏ์,วิศิษฎ์,FALSE,FALSE
+EN2TH,visit,วิศิษฐ์,วิศิษฐ,วิศิษฏ์,วิศิษฎ์,FALSE,FALSE
+EN2TH,natthiya,ณัฐธิญา,ณัฐธิยา,ณัฏฐิญา,ณัฐิยา,FALSE,FALSE
+EN2TH,nattiya,ณัฐติยา,ณัฐติญา,นัตติยา,ณัฐิยา,FALSE,FALSE
+EN2TH,nutthiya,ณัฐธิญา,ณัฐธิยา,ณัฐิยา,ณัฐิยา,FALSE,TRUE
+EN2TH,wachirasak,วชิรศักดิ์,วชิระศักดิ์,วชิราศักดิ์,วชิรศักดิ์,TRUE,TRUE
+EN2TH,vachirasak,วชิรศักดิ์,วชิระศักดิ์,วชิราศักดิ์,วชิรศักดิ์,TRUE,TRUE
+EN2TH,wiraphon,วิราภรณ์,วีระพล,วีราภรณ์,วิราพร,FALSE,FALSE
+EN2TH,wiraphorn,วิราภรณ์,วิราพร,วีราภรณ์,วิราพร,FALSE,TRUE
+EN2TH,wiraporn,วิราภรณ์,วิราพร,วีราภรณ์,วิราพร,FALSE,TRUE
+EN2TH,ladawan,ลดาวัลย์,ลดาวรรณ,ลดาวรรณ์,ลดาวรรณ,FALSE,TRUE
+EN2TH,sasipha,ศศิภา,ศศิพา,ศศิภาว์,ศศิภา,TRUE,TRUE
+EN2TH,sasipa,ศศิภา,ศศิพา,ศศิภาว์,ศศิภา,TRUE,TRUE
+EN2TH,prachan,ประจัน,ประจันต์,ประชาญ,ประชัน,FALSE,FALSE
+EN2TH,prashan,ประชาน,ประชาญ,ประจัน,ประชัน,FALSE,FALSE
+EN2TH,kraiwit,ไกรวิทย์,ไกรวิชญ์,ไกรวิท,ไกรวิชญ์,FALSE,TRUE
+EN2TH,kraivit,ไกรวิทย์,ไกรวิชญ์,ไกรวิท,ไกรวิชญ์,FALSE,TRUE
+EN2TH,waruni,วารุณี,วรุณี,วารุนี,วารุณี,TRUE,TRUE
+EN2TH,warunee,วารุณี,วรุณี,วรุณีย์,วารุณี,TRUE,TRUE
+EN2TH,varunee,วารุณี,วรุณี,วารุนี,วารุณี,TRUE,TRUE
+EN2TH,mukda,มุกดา,มุขดา,มักดา,มุกดา,TRUE,TRUE
+EN2TH,mookda,มุกดา,มุขดา,หมุกดา,มุกดา,TRUE,TRUE
+EN2TH,chitrada,จิตรดา,จิตรรดา,จิตระดา,จิตรดา,TRUE,TRUE
+EN2TH,jitrada,จิตรดา,จิตรรดา,จิตระดา,จิตรดา,TRUE,TRUE
+EN2TH,panitsara,พนิตสรา,พนิตศรา,พนิตสาระ,ปาณิสรา,FALSE,FALSE
+EN2TH,trakun,ตระกูล,ตระกุล,ตราคุณ,ตระกูล,TRUE,TRUE
+EN2TH,trakoon,ตระกูล,ตระกุล,ตราคูณ,ตระกูล,TRUE,TRUE
+EN2TH,trakul,ตระกูล,ตระกุล,ตรากูล,ตระกูล,TRUE,TRUE
+EN2TH,suhaimi,ซูฮัยมี,ซูไฮมี,สุไฮมี,ซูไฮมี,FALSE,TRUE
+EN2TH,suhaimee,สุไฮมี,สุให้มี,ซูฮัยมี,ซูไฮมี,FALSE,FALSE
+EN2TH,patthamaphon,ปฐมาพร,ปัทมาพร,ปัทมพร,ปฐมาพร,TRUE,TRUE
+EN2TH,pattamaporn,ปฐมาพร,ปัทมาพร,ปฐมพร,ปฐมาพร,TRUE,TRUE
+EN2TH,patthamaporn,ปฐมาพร,ปัทมาพร,ปฐมพร,ปฐมาพร,TRUE,TRUE
+EN2TH,khamphi,คำภีร์,คำพี,คัมพี,คำภีร์,TRUE,TRUE
+EN2TH,khamphee,คำภีร์,คำพี,คัมพี,คำภีร์,TRUE,TRUE
+EN2TH,kamphee,คัมภีร์,คำภีร์,กัมภีร์,คำภีร์,FALSE,TRUE
+EN2TH,rattaya,รัฐยา,รัตยา,รัทยา,รัตยา,FALSE,TRUE
+EN2TH,nahathai,ณหทัย,นหทัย,นะหทัย,ณหทัย,TRUE,TRUE
+EN2TH,nahatai,ณหทัย,นหทัย,นะหทัย,ณหทัย,TRUE,TRUE
+EN2TH,wanthani,วรรณธานี,วรรณธนี,วันทนีย์,วันทนี,FALSE,FALSE
+EN2TH,wanthanee,วรรณธานี,วรรณธนี,วันทนีย์,วันทนี,FALSE,FALSE
+EN2TH,wantanee,วรรณธานี,วรรณธนี,วันทนีย์,วันทนี,FALSE,FALSE
+EN2TH,thanusak,ธนูศักดิ์,ฐานุศักดิ์,ธนุศักดิ์,ธนูศักดิ์,TRUE,TRUE
+EN2TH,tanusak,ธนูศักดิ์,ธนุศักดิ์,ฐานุศักดิ์,ธนูศักดิ์,TRUE,TRUE
+EN2TH,suksan,สุขสันต์,สุขสันติ์,สุขสัณห์,สุขสันต์,TRUE,TRUE
+EN2TH,sakuntala,สกุลตลา,สกุลธลา,สกุลทะลา,สกุลตลา,TRUE,TRUE
+EN2TH,manat,มนัส,มานัส,มณัส,มนัส,TRUE,TRUE
+EN2TH,netiphong,เนติพงศ์,เนติพงษ์,เนติพงค์,เนติพงษ์,FALSE,TRUE
+EN2TH,netipong,เนติพงศ์,เนติพงษ์,เนติพงค์,เนติพงษ์,FALSE,TRUE
+EN2TH,nethipong,เนติพงศ์,เนติพงษ์,เนธิพงศ์,เนติพงษ์,FALSE,TRUE
+EN2TH,pratthana,ปรารถนา,ปรัถนา,ปรัตนา,ปรารถนา,TRUE,TRUE
+EN2TH,prarttana,ปรารถนา,พราร์ทธนา,พรารถนา,ปรารถนา,TRUE,TRUE
+EN2TH,prattana,ปรารถนา,ปรัตนา,ปรัตนะ,ปรารถนา,TRUE,TRUE
+EN2TH,thipwan,ทิพวรรณ,ทิพวัลย์,ทิพวรรณ์,ทิพย์วรรณ,FALSE,FALSE
+EN2TH,tipwan,ทิพวรรณ,ทิพวัลย์,ทิพวรรณ์,ทิพย์วรรณ,FALSE,FALSE
+EN2TH,banlang,บัลลังค์,บัลลังก์,บัลลัง,บัลลังก์,FALSE,TRUE
+EN2TH,bunlang,บัลลังก์,บัลลังค์,บุญหลัง,บัลลังก์,TRUE,TRUE
+EN2TH,woraset,วรเศรษฐ์,วรเศรษฐ,วรเสฏฐ์,วรเศรษฐ์,TRUE,TRUE
+EN2TH,worraset,วรเศรษฐ์,วรเศรษฐ,วรเสฏฐ์,วรเศรษฐ์,TRUE,TRUE
+EN2TH,voraseth,วรเศรษฐ,วรเสฏฐ์,วรเสฎฐ์,วรเศรษฐ์,FALSE,FALSE
+EN2TH,thanya,ธัญญา,ธันยา,ธัญญะ,ธัญญะ,FALSE,TRUE
+EN2TH,tanya,ธัญญา,ธันยา,ธัญญะ,ธัญญะ,FALSE,TRUE
+EN2TH,tunya,ธัญญา,ธันยา,ตุลยา,ธัญญะ,FALSE,FALSE
+EN2TH,pawarit,ภวฤทธิ์,ภวริศ,ปวริศ,ปวริศ,FALSE,TRUE
+EN2TH,pawaris,ปวริศ,ภวริศ,ภาวริศ,ปวริศ,TRUE,TRUE
+EN2TH,pawarid,ปวริศ,ภวฤทธิ์,ปวฤทธิ์,ปวริศ,TRUE,TRUE
+EN2TH,yingsak,ยิ่งศักดิ์,หญิงศักดิ์,ยิงศักดิ์,ยิ่งศักดิ์,TRUE,TRUE
+EN2TH,yingsuk,ยิ่งสุข,ยิงศักดิ์,หญิงสุข,ยิ่งศักดิ์,FALSE,FALSE
+EN2TH,natthawan,ณัฐวรรณ,ณัฏฐวรรณ,ณัฐวัลย์,ณัฐวรรณ,TRUE,TRUE
+EN2TH,nattawan,ณัฐวรรณ,ณัฐวัลย์,ณัฏฐวรรณ,ณัฐวรรณ,TRUE,TRUE
+EN2TH,nuttawan,ณัฐวรรณ,ณัฐวัลย์,ณัฐวรรณ์,ณัฐวรรณ,TRUE,TRUE
+EN2TH,thirawat,ธีรวัฒน์,ธีระวัฒน์,ถิรวัฒน์,ธีรวัต,FALSE,FALSE
+EN2TH,teerawat,ธีรวัฒน์,ธีระวัฒน์,ธีรวรรธน์,ธีรวัต,FALSE,FALSE
+EN2TH,theerawat,ธีรวัฒน์,ธีระวัฒน์,ธีรวรรธน์,ธีรวัต,FALSE,FALSE
+EN2TH,natcha,ณัฐชา,ณัชชา,นัชชา,ณัชชา,FALSE,TRUE
+EN2TH,nutcha,ณัฐชา,นุชชา,ณัชชา,ณัชชา,FALSE,TRUE
+EN2TH,kesaraphon,เกษราภรณ์,เกษราพร,เกศราภรณ์,เกษราพร,FALSE,TRUE
+EN2TH,kesaraporn,เกษราภรณ์,เกษราพร,เกศราภรณ์,เกษราพร,FALSE,TRUE
+EN2TH,kesarapon,เกษราภรณ์,เกษราพร,เกศราภรณ์,เกษราพร,FALSE,TRUE
+EN2TH,nanthida,นันท์ธิดา,นันทิดา,นันธิดา,นันธิดา,FALSE,TRUE
+EN2TH,nunthida,นันทิดา,นันท์ธิดา,นันธิดา,นันธิดา,FALSE,TRUE
+EN2TH,nuntida,นันทิดา,นันธิดา,นันท์ธิดา,นันธิดา,FALSE,TRUE
+EN2TH,rut,รุจน์,รุจ,รุตม์,รุจน์,TRUE,TRUE
+EN2TH,chayanan,ชญานันท์,ชยานันท์,ชญานัน,ชญาน์นันท์,FALSE,FALSE
+EN2TH,chayanun,ชญานันท์,ชยานันท์,ชยานั้น,ชญาน์นันท์,FALSE,FALSE
+EN2TH,aphiruedi,อภิฤดี,อภิรือดี,อาภิฤดี,อภิฤดี,TRUE,TRUE
+EN2TH,apiruedee,อภิฤดี,อภิฤาดี,อาภิฤดี,อภิฤดี,TRUE,TRUE
+EN2TH,arunratsami,อรุณรัศมี,อรัญรัศมี,อรุณรัสมี,อรุณรัศมี,TRUE,TRUE
+EN2TH,arunratsamee,อรุณรัศมี,อรัญรัศมี,อรัณรัศมี,อรุณรัศมี,TRUE,TRUE
+EN2TH,arunrasamee,อรุณรัศมี,อรุณรสมี,อรุณรัสมี,อรุณรัศมี,TRUE,TRUE
+EN2TH,phonphong,พรพงศ์,พรพงษ์,พลพงษ์,พรพงษ์,FALSE,TRUE
+EN2TH,pornphong,พรพงษ์,พรพงศ์,พรพงค์,พรพงษ์,TRUE,TRUE
+EN2TH,pornpong,พรพงษ์,พรพงศ์,พรพงค์,พรพงษ์,TRUE,TRUE
+EN2TH,suthon,สุทน,สุธร,สุธน,สุธน,FALSE,TRUE
+EN2TH,phichet,พิเชษฐ์,พิเชฐ,พิเชษฐ,พิเชต,FALSE,FALSE
+EN2TH,pichet,พิเชษฐ์,พิเชฐ,พิเชษฐ,พิเชต,FALSE,FALSE
+EN2TH,warini,วาริณี,วารินี,วารีณี,วาริณี,TRUE,TRUE
+EN2TH,warinee,วาริณี,วารินี,วริณี,วาริณี,TRUE,TRUE
+EN2TH,varinee,วาริณี,วารินี,วริณี,วาริณี,TRUE,TRUE
+EN2TH,sararat,ศรารัตน์,สรารัตน์,สารรัตน์,สรารัตน์,FALSE,TRUE
+EN2TH,udomsak,อุดมศักดิ์,อุดมศักด์,อุดมศักดื์,อุดมศักดิ์,TRUE,TRUE
+EN2TH,phatchaya,พัชญา,พัชยา,พัชญะ,พัชญา,TRUE,TRUE
+EN2TH,patchaya,พัชญา,พัชยา,พัชญะ,พัชญา,TRUE,TRUE
+EN2TH,anuwat,อนุวัฒน์,อนุวัตร,อนุวัติ,อนุวัตร,FALSE,TRUE
+EN2TH,anuvat,อนุวัฒน์,อนุวัติ,อนุวัตร,อนุวัตร,FALSE,TRUE
+EN2TH,sirikan,ศิริกาญจน์,สิริกาญจน์,ศิริกานต์,สิริการย์,FALSE,FALSE
+EN2TH,sirikarn,ศิริกาญจน์,สิริกาญจน์,ศิริกานต์,สิริการย์,FALSE,FALSE
+EN2TH,phraephan,แพรพรรณ,แพรพันธ์,แพร่พรรณ,แพรพรรณ,TRUE,TRUE
+EN2TH,praepan,แพรพรรณ,แพรพันธ์,แพรพรรณ์,แพรพรรณ,TRUE,TRUE
+EN2TH,praephan,แพรพรรณ,แพรพันธ์,แปรพรรณ,แพรพรรณ,TRUE,TRUE
+EN2TH,suwichada,สุวิชาดา,สุวิชฎา,สุวิชดา,สุวิชาดา,TRUE,TRUE
+EN2TH,suvichada,สุวิชาดา,สุวิชฎา,สุวิชดา,สุวิชาดา,TRUE,TRUE
+EN2TH,waraphon,วราพร,วราพล,วราภร,วราพร,TRUE,TRUE
+EN2TH,varaporn,วราพร,วราภร,วรพร,วราพร,TRUE,TRUE
+EN2TH,waraphorn,วราพร,วราภร,วรพร,วราพร,TRUE,TRUE
+EN2TH,phongsit,พงษ์สิทธิ์,พงศ์สิทธิ์,พงค์สิทธิ์,พงษ์สิทธิ์,TRUE,TRUE
+EN2TH,pongsit,พงศ์สิทธิ์,พงษ์สิทธิ์,พงค์สิทธิ์,พงษ์สิทธิ์,FALSE,TRUE
+EN2TH,chakkarawut,จักรวุฒิ,จักรวุธ,จักราวุธ,จักราวุุธ,FALSE,FALSE
+EN2TH,jakkarawut,จักรวุฒิ,จักรวุธ,จักราวุธ,จักราวุุธ,FALSE,FALSE
+EN2TH,sing,สิงห์,ซิ่ง,สิ่ง,สิงห์,TRUE,TRUE
+EN2TH,phichit,พิชิต,พิจิตร,พิจิต,พิชิต,TRUE,TRUE
+EN2TH,pichit,พิชิต,พิจิตร,ภิชิต,พิชิต,TRUE,TRUE
+EN2TH,somyot,สมยศ,สมยอด,สมยส,สมยศ,TRUE,TRUE
+EN2TH,chaiyan,ชัยยันต์,ไชยยันต์,ชัยญาณ,ชัยยันต์,TRUE,TRUE
+EN2TH,chaiyun,ชัยยันต์,ไชยยันต์,ชัยยุน,ชัยยันต์,TRUE,TRUE
+EN2TH,madari,มาดารี,มะดารี,มาดาริ,มะดารี,FALSE,TRUE
+EN2TH,madaree,มาดารี,มะดารี,มัดอารี,มะดารี,FALSE,TRUE
+EN2TH,suchawali,สุชาวลี,สุชวลี,สุชวลีย์,สุชาวลี,TRUE,TRUE
+EN2TH,suchawalee,สุชาวลี,สุชวลี,สุชาวาลี,สุชาวลี,TRUE,TRUE
+EN2TH,nutchanat,นุชนารถ,ณัฐชนัฐ,นุชนาฎ,นุชนาฏ,FALSE,FALSE
+EN2TH,nutchanart,นุชนารถ,ณัฐชนาฎ,ณัฐชนาฏ,นุชนาฏ,FALSE,FALSE
+EN2TH,nuchchanart,นุชนารถ,นุชนาฎ,นุชนาฏ,นุชนาฏ,FALSE,TRUE
+EN2TH,siphon,ศรีพล,ศรีพร,ศิภรณ์,ศรีพร,FALSE,TRUE
+EN2TH,siphorn,ศรีพร,ศิพร,ศิภรณ์,ศรีพร,TRUE,TRUE
+EN2TH,siporn,ศรีพร,ศิพร,ศิภร,ศรีพร,TRUE,TRUE
+EN2TH,ratda,รัชฎา,รัชดา,รัตน์ดา,รัตดา,FALSE,FALSE
+EN2TH,saranphon,ศรัณย์พล,ศรัณย์พร,ศรัณภรณ์,ศรัณย์พร,FALSE,TRUE
+EN2TH,sarunphorn,ศรัณย์พร,ศรัณย์ภรณ์,ศรันย์พร,ศรัณย์พร,TRUE,TRUE
+EN2TH,saranporn,ศรัณย์พร,ศรัณย์ภรณ์,ศรันย์พร,ศรัณย์พร,TRUE,TRUE
+EN2TH,thanit,ธนิต,ฐานิต,ธนิษฐ์,ธนิต,TRUE,TRUE
+EN2TH,tanit,ธนิต,ฐานิต,ธนิตย์,ธนิต,TRUE,TRUE
+EN2TH,tanid,ธนิต,ธนิตย์,ฐานิต,ธนิต,TRUE,TRUE
+EN2TH,suttha,สุทธา,ศรัทธา,ศุทธา,สุทธา,TRUE,TRUE
+EN2TH,ratthakon,รัฐกร,รัฐกรณ์,รัฏฐกร,รัฐกรณ์,FALSE,TRUE
+EN2TH,ratthakorn,รัฐกร,รัฐกรณ์,รัฏฐกร,รัฐกรณ์,FALSE,TRUE
+EN2TH,rattakorn,รัฐกร,รัฐกรณ์,รัฏฐกร,รัฐกรณ์,FALSE,TRUE
+EN2TH,phuttharaksa,พุทธรักษา,พุทธรักษ์,ภัทรักษา,พุทธรักษา,TRUE,TRUE
+EN2TH,puttaraksa,พุทธรักษา,ภัทรักษา,พุทธรักษ์,พุทธรักษา,TRUE,TRUE
+EN2TH,puttaruksa,พุทธรักษา,พุทธรักษ์,พุฒรักษา,พุทธรักษา,TRUE,TRUE
+EN2TH,pharini,ภาริณี,ภารินี,พาริณี,ภาริณี,TRUE,TRUE
+EN2TH,parinee,ปาริณี,ปริณี,ภาริณี,ภาริณี,FALSE,TRUE
+EN2TH,suphawan,สุภาวรรณ,สุภาวัลย์,สุภาวรรณ์,สุภาวรรณ,TRUE,TRUE
+EN2TH,supawan,สุภาวรรณ,ศุภวรรณ,สุภาวัลย์,สุภาวรรณ,TRUE,TRUE
+EN2TH,dueramae,ดือราแม,ดือระแม,ดื้อระแม,ดือราแม,TRUE,TRUE
+EN2TH,rewat,เรวัตร,เรวัติ,เรวัต,เรวัต,FALSE,TRUE
+EN2TH,revat,เรวัต,เรวัตร,เรวัติ,เรวัต,TRUE,TRUE
+EN2TH,tuangrat,ตวงรัตน์,ทวงรัตน์,ตวงรัฐ,ตวงรัตน์,TRUE,TRUE
+EN2TH,tuangrut,ตวงรัตน์,ทวงรัตน์,ตวงรัฐ,ตวงรัตน์,TRUE,TRUE
+EN2TH,naruedi,นฤดี,ณฤดี,หน้าฤดี,ณฤดี,FALSE,TRUE
+EN2TH,phatcharaphong,พัชรพงศ์,พัชรพงษ์,พัชรพงค์,พัชรพงษ์,FALSE,TRUE
+EN2TH,patcharaphong,พัชรพงษ์,พัชรพงศ์,พัชรพงค์,พัชรพงษ์,TRUE,TRUE
+EN2TH,patcharapong,พัชรพงษ์,พัชรพงศ์,พัชรพงค์,พัชรพงษ์,TRUE,TRUE
+EN2TH,chawin,ชวิน,ชวินท์,ชาวิน,ชวิน,TRUE,TRUE
+EN2TH,chavin,ชวิน,ชวินท์,ชาวิน,ชวิน,TRUE,TRUE
+EN2TH,damrongphon,ดำรงค์พล,ดำรงพล,ดำรงค์พร,ดำรงพล,FALSE,TRUE
+EN2TH,dhumrongpol,ดำรงพล,ดำรงค์พล,ธำรงพล,ดำรงพล,TRUE,TRUE
+EN2TH,dumrongphol,ดำรงพล,ดำรงค์พล,ดำรงผล,ดำรงพล,TRUE,TRUE
+EN2TH,yotying,ยอดยิ่ง,ยศยิ่ง,ยอดหญิง,ยอดยิ่ง,TRUE,TRUE
+EN2TH,yodying,ยอดยิ่ง,ยอดหญิง,ยศยิ่ง,ยอดยิ่ง,TRUE,TRUE
+EN2TH,yordying,ยอดยิ่ง,ยอดหญิง,ยอดยิง,ยอดยิ่ง,TRUE,TRUE
+EN2TH,watsa,วัสสะ,วัสสา,วรรษา,วรรษา,FALSE,TRUE
+EN2TH,wassa,วัสสะ,วรรษา,วัสสา,วรรษา,FALSE,TRUE
+EN2TH,praphaphon,ประภาพร,ประภาพล,ประภาภร,ประภาภรณ์,FALSE,FALSE
+EN2TH,prapaporn,ประภาพร,ปภาภรณ์,ประภาภร,ประภาภรณ์,FALSE,FALSE
+EN2TH,praphaporn,ประภาพร,ปภาภรณ์,ประภาภร,ประภาภรณ์,FALSE,FALSE
+EN2TH,chanprapha,จันทร์ประภา,ชาญประภา,จันประภา,จันทร์ประภา,TRUE,TRUE
+EN2TH,janprapha,จันทร์ประภา,จันประภา,จันทรประภา,จันทร์ประภา,TRUE,TRUE
+EN2TH,chanprapa,จันทร์ประภา,ชาญประภา,จันประภา,จันทร์ประภา,TRUE,TRUE
+EN2TH,thodsawat,ทศวัต,ทศวัฒน์,ทศวรรษ,ทศวรรษ,FALSE,TRUE
+EN2TH,tossawat,ทศวัต,ทศวัฒน์,ทศวรรษ,ทศวรรษ,FALSE,TRUE
+EN2TH,todsawad,ทศวัต,ทศวัฒน์,ทศวรรษ,ทศวรรษ,FALSE,TRUE
+EN2TH,wathin,วาทิน,วทิน,วาธิน,วาทิน,TRUE,TRUE
+EN2TH,vatin,วาทิน,วทิน,วาติน,วาทิน,TRUE,TRUE
+EN2TH,vathin,วาทิน,วทิน,วาธิน,วาทิน,TRUE,TRUE
+EN2TH,wasuphon,วสุพล,วสุภรณ์,วสุพร,วสุพล,TRUE,TRUE
+EN2TH,wasupon,วสุพล,วสุภรณ์,วสุพร,วสุพล,TRUE,TRUE
+EN2TH,vasuphon,วสุพล,วสุภรณ์,วสุพร,วสุพล,TRUE,TRUE
+EN2TH,phanukon,ภาณุกร,ภานุกร,ภาณุกรณ์,ภานุกร,FALSE,TRUE
+EN2TH,panukon,ภาณุกร,ภานุกร,ภาณุกรณ์,ภานุกร,FALSE,TRUE
+EN2TH,panukorn,ภาณุกร,ภานุกร,ภนุกร,ภานุกร,FALSE,TRUE
+EN2TH,warayut,วรายุทธ,วรายุธ,วรายุต,วรายุส,FALSE,FALSE
+EN2TH,warayus,วรายุส,วรายุศ,วรายุทธ,วรายุส,TRUE,TRUE
+EN2TH,varayus,วรายุส,วรายุศ,วรายุทธ์,วรายุส,TRUE,TRUE
+EN2TH,chuanphit,ชวนพิศ,ชวนพิชญ์,ชวนผิด,ชวนพิศ,TRUE,TRUE
+EN2TH,chuanpit,ชวนพิศ,ชวนพิชญ์,ชวนปิด,ชวนพิศ,TRUE,TRUE
+EN2TH,chuanpis,ชวนพิศ,จวนพิศ,ฉวนพิศ,ชวนพิศ,TRUE,TRUE
+EN2TH,poramin,ปรมินทร์,ปรมิน,ปรมิญชุ์,ปรมินทร์,TRUE,TRUE
+EN2TH,nisa,นิสา,นิศา,นิษา,นิษา,FALSE,TRUE
+EN2TH,udomchai,อุดมชัย,อุดมไชย,อุดมชาย,อุดมชัย,TRUE,TRUE
+EN2TH,phiangruethai,เพียงฤทัย,เพียงฤาทัย,เพียรฤทัย,เพียงฤทัย,TRUE,TRUE
+EN2TH,piangruethai,เพียงฤทัย,เปียงฤทัย,เพียงฤาทัย,เพียงฤทัย,TRUE,TRUE
+EN2TH,siphrae,ศรีแพร,สีแพร,สีแพร่,ศรีแพร,TRUE,TRUE
+EN2TH,sriprae,ศรีแพร,ศรีแปร,สีแพร,ศรีแพร,TRUE,TRUE
+EN2TH,wara,วรา,วารา,วาระ,วราห์,FALSE,FALSE
+EN2TH,vara,วรา,วารา,วาระ,วราห์,FALSE,FALSE
+EN2TH,siriphon,ศิริพร,ศิริพล,สิริพร,ศิริพล,FALSE,TRUE
+EN2TH,siripon,ศิริพล,สิริพล,ศิริพร,ศิริพล,TRUE,TRUE
+EN2TH,siriphol,ศิริพล,สิริพล,ศิริผล,ศิริพล,TRUE,TRUE
+EN2TH,chat,ฉัตร,ชาติ,จัด,ชัด,FALSE,FALSE
+EN2TH,chad,ฉัตร,ชาติ,จัด,ชัด,FALSE,FALSE
+EN2TH,yutthasak,ยุทธศักดิ์,หยุดทาสัก,หยุดทาซัก,ยุทธศักดิ์,TRUE,TRUE
+EN2TH,yuttasak,ยุทธศักดิ์,หยุดตาศักดิ์,หยุดตาสัก,ยุทธศักดิ์,TRUE,TRUE
+EN2TH,angkun,อังกูร,อังคุณ,อังกูล,อังกูร,TRUE,TRUE
+EN2TH,angkoon,อังกูร,อังคุณ,อังกูล,อังกูร,TRUE,TRUE
+EN2TH,witthawat,วิทวัส,วิธวัฒน์,วิธวัช,วิทวัส,TRUE,TRUE
+EN2TH,wittawat,วิทวัส,วิธวัฒน์,วิทวัฒน์,วิทวัส,TRUE,TRUE
+EN2TH,vittawat,วิทวัส,วิธวัฒน์,วิทวัฒน์,วิทวัส,TRUE,TRUE
+EN2TH,phakaphan,ผกาพรรณ,ผกาพันธ์,ภคพรรณ,ผกาพันธ์,FALSE,TRUE
+EN2TH,phakapan,ผกาพรรณ,ผกาพันธ์,ภคพรรณ,ผกาพันธ์,FALSE,TRUE
+EN2TH,pakaphan,ภคพรรณ,ผกาพรรณ,ผกาพันธ์,ผกาพันธ์,FALSE,TRUE
+EN2TH,panisara,ปณิสรา,ปนิสรา,ปณิศรา,ปาณิสรา,FALSE,FALSE
+EN2TH,wina,วินา,วีนา,วิณา,วีณา,FALSE,FALSE
+EN2TH,weena,วีนา,วีณา,วีนะ,วีณา,FALSE,TRUE
+EN2TH,veena,วีนา,วีณา,วีน่า,วีณา,FALSE,TRUE
+EN2TH,chinnawat,ชินวัฒน์,ชินวัตร,ชินวัต,ชินวัตร,FALSE,TRUE
+EN2TH,romli,รมลี,รอมลี,ร่มลี้,รอมลี,FALSE,TRUE
+EN2TH,romlee,รมลี,รอมลี,ร่มลี,รอมลี,FALSE,TRUE
+EN2TH,wachiraphong,วชิรพงศ์,วชิรพงษ์,วชิระพงษ์,วชิรพงศ์,TRUE,TRUE
+EN2TH,vachiraphong,วชิรพงศ์,วชิรพงษ์,วชิระพงษ์,วชิรพงศ์,TRUE,TRUE
+EN2TH,wachirapong,วชิรพงศ์,วชิรพงษ์,วชิระพงษ์,วชิรพงศ์,TRUE,TRUE
+EN2TH,phatphong,พัฒน์พงศ์,พัฒน์พงษ์,ภัทรพงศ์,พัฒน์พงศ์,TRUE,TRUE
+EN2TH,patphong,พัฒน์พงศ์,พัฒน์พงษ์,ภัทรพงศ์,พัฒน์พงศ์,TRUE,TRUE
+EN2TH,patpong,พัฒน์พงศ์,พัฒน์พงษ์,ภัทรพงศ์,พัฒน์พงศ์,TRUE,TRUE
+EN2TH,phatsita,ภัทรสิตา,ภัสสิตา,พัฒน์สิตา,พัชร์สิตา,FALSE,FALSE
+EN2TH,patsita,ภัทรสิตา,ภัสสิตา,พัฒน์สิตา,พัชร์สิตา,FALSE,FALSE
+EN2TH,annop,อันนพ,อัณณพ,อรรณพ,อรรนพ,FALSE,FALSE
+EN2TH,akkharawat,อัครวัฒน์,อัครวรรธน์,อัคราวัฒน์,อัครวัฒน์,TRUE,TRUE
+EN2TH,akkarawat,อัครวัฒน์,อัครวรรธน์,อัคราวัฒน์,อัครวัฒน์,TRUE,TRUE
+EN2TH,akkaravat,อัครวัฒน์,อัครวรรธน์,อัคราวัฒน์,อัครวัฒน์,TRUE,TRUE
+EN2TH,pathamaphon,ปฐมาพร,ปฐมพร,ปฐมพล,ปฐมาพร,TRUE,TRUE
+EN2TH,patamaporn,ปฐมาภรณ์,ปฐมาพร,ปฐมพร,ปฐมาพร,FALSE,TRUE
+EN2TH,pathamaporn,ปฐมาภรณ์,ปฐมาพร,ปฐมพร,ปฐมาพร,FALSE,TRUE
+EN2TH,fongkaeo,ฟองแก้ว,ฝองแก้ว,ฟองเคโอ,ฟองแก้ว,TRUE,TRUE
+EN2TH,fongkaew,ฟองแก้ว,ฟองแกว,ฝองแก้ว,ฟองแก้ว,TRUE,TRUE
+EN2TH,naruethep,นฤเทพ,ณฤเทพ,นฤทัพ,นฤเทพ,TRUE,TRUE
+EN2TH,naruetep,นฤเทพ,ณฤเทพ,นฤทัพ,นฤเทพ,TRUE,TRUE
+EN2TH,somphop,สมภพ,สมพบ,ส้มภพ,สมภพ,TRUE,TRUE
+EN2TH,somphob,สมภพ,สมพบ,ส้มภพ,สมภพ,TRUE,TRUE
+EN2TH,phachon,ผจญ,พจร,พชร,ผจญ,TRUE,TRUE
+EN2TH,pachon,ผจญ,พชร,พจร,ผจญ,TRUE,TRUE
+EN2TH,laksana,ลักษณา,ลักษณะ,ลักษณ,ลักษณา,TRUE,TRUE
+EN2TH,luksana,ลักษณา,ลักษณะ,ลักษณ,ลักษณา,TRUE,TRUE
+EN2TH,nakhon,นคร,ณคร,นาคร,นคร,TRUE,TRUE
+EN2TH,nakorn,นคร,ณกร,นาคร,นคร,TRUE,TRUE
+EN2TH,thannaphat,ธัญญ์นภัส,ธันย์นภัส,ธัญญ์ณภัทร,ธัญญ์นภัส,TRUE,TRUE
+EN2TH,thannapas,ธัญญ์นภัส,ธันย์นภัส,ธัญญ์ณภัส,ธัญญ์นภัส,TRUE,TRUE
+EN2TH,tannapas,ธัญญ์นภัส,ธันย์นภัส,ธัญนภัส,ธัญญ์นภัส,TRUE,TRUE
+EN2TH,thana,ธนา,ฐานะ,ธนะ,ธนา,TRUE,TRUE
+EN2TH,tana,ธนา,ฐานะ,ธนะ,ธนา,TRUE,TRUE
+EN2TH,waratchaya,วรัชญา,วรัชญะ,วรัชยา,วรัชยา,FALSE,TRUE
+EN2TH,varatchaya,วรัชญา,วรัชยา,วรัชญะ,วรัชยา,FALSE,TRUE
+EN2TH,prakat,ประกาศ,ปรากาศ,ประกาจ,ประกาศ,TRUE,TRUE
+EN2TH,prakart,ประกาศ,ปรากาศ,ประกาด,ประกาศ,TRUE,TRUE
+EN2TH,nucharin,นุชรินทร์,ณัชรินทร์,ณุชรินทร์,นุจรินทร์,FALSE,FALSE
+EN2TH,nujarin,นุจรินทร์,ณุจรินทร์,นุชรินทร์,นุจรินทร์,TRUE,TRUE
+EN2TH,ramphaiphan,รำไพพรรณ,รำไพพันธ์,รำไพพรรณ์,รำไพพรรณ,TRUE,TRUE
+EN2TH,rampaipan,รำไพพรรณ,รำไพพรรณ์,รำไพพันธ์,รำไพพรรณ,TRUE,TRUE
+EN2TH,sirinthip,ศิรินทิพย์,สิรินทิพย์,ศิรินทิพ,ศิรินทิพย์,TRUE,TRUE
+EN2TH,sirintip,ศิรินทิพย์,สิรินทิพย์,ศิรินทิพ,ศิรินทิพย์,TRUE,TRUE
+EN2TH,natthasak,ณัฐศักดิ์,ณัฏฐศักดิ์,นัฐศักดิ์,ณัฐศักดิ์,TRUE,TRUE
+EN2TH,nattasak,ณัฐศักดิ์,ณัฏฐศักดิ์,นัฐศักดิ์,ณัฐศักดิ์,TRUE,TRUE
+EN2TH,nuttasak,ณัฐศักดิ์,ณัฏฐศักดิ์,นัฐศักดิ์,ณัฐศักดิ์,TRUE,TRUE
+EN2TH,itthiphon,อิทธิพล,อิทธิพร,อิทธิพนธ์,อิทธิพล,TRUE,TRUE
+EN2TH,ittipon,อิทธิพล,อิทธิพนธ์,อิทธิพร,อิทธิพล,TRUE,TRUE
+EN2TH,ittipol,อิทธิพล,อิทธิผล,อิทธิพนธ์,อิทธิพล,TRUE,TRUE
+EN2TH,khamsing,คำสิงห์,คำสิ่ง,ขำสิงห์,คำสิงห์,TRUE,TRUE
+EN2TH,khamsingh,คำสิงห์,ขำสิงห์,คำสิ่ง,คำสิงห์,TRUE,TRUE
+EN2TH,kamsing,คำสิงห์,คำสิ่ง,ขำสิงห์,คำสิงห์,TRUE,TRUE
+EN2TH,nannaphat,นันท์นภัส,นันท์ณภัทร,นันท์นภัทร,นันท์นภัส,TRUE,TRUE
+EN2TH,nannapas,นันท์นภัส,นันท์นภาส,นันท์ณภัส,นันท์นภัส,TRUE,TRUE
+EN2TH,nannapat,นันท์นภัส,นันท์ณภัทร,นันท์นภัทร,นันท์นภัส,TRUE,TRUE
+EN2TH,anat,อาณัติ,อนัตถ์,อานัติ,อนัส,FALSE,FALSE
+EN2TH,surat,สุรัตน์,สุรัต,สุรัติ,สุราษฎร์,FALSE,FALSE
+EN2TH,surad,สุรัต,สุรัตน์,สุราช,สุราษฎร์,FALSE,FALSE
+EN2TH,wasini,วศินี,วาสินี,วสินี,วาศิณี,FALSE,FALSE
+EN2TH,wasinee,วาสินี,วศินี,วสินี,วาศิณี,FALSE,FALSE
+EN2TH,vasinee,วาสินี,วศินี,วสินี,วาศิณี,FALSE,FALSE
+EN2TH,nonthiya,นนทิยา,นนทิญา,นนธิยา,นนทิยา,TRUE,TRUE
+EN2TH,nontiya,นนทิยา,นนธิยา,นนทิญา,นนทิยา,TRUE,TRUE
+EN2TH,nuananong,นวลอนงค์,นวนอนงค์,นวลอนง,นวลอนงค์,TRUE,TRUE
+EN2TH,tueanta,เตือนตา,เถื่อนตา,เตือนต๊ะ,เตือนตา,TRUE,TRUE
+EN2TH,witthayakon,วิทยากร,วิทยกร,วิทยกรณ์,วิทยากร,TRUE,TRUE
+EN2TH,witthayakorn,วิทยากร,วิทยากรณ์,วิทยกร,วิทยากร,TRUE,TRUE
+EN2TH,vitayakorn,วิทยากร,วิตายากร,วิทยกร,วิทยากร,TRUE,TRUE
+EN2TH,phiangkhwan,เพียงขวัญ,เพียงขวาน,เพี้ยงขวัญ,เพียงขวัญ,TRUE,TRUE
+EN2TH,piangkwan,เพียงขวัญ,เปียงขวัญ,เผียงขวัญ,เพียงขวัญ,TRUE,TRUE
+EN2TH,piangkhwan,เพียงขวัญ,เปียงขวัญ,เปี้ยงขวัญ,เพียงขวัญ,TRUE,TRUE
+EN2TH,poramet,ปรเมษฐ์,ปรเมศร์,ปรเมษฐ,ปรเมศ,FALSE,FALSE
+EN2TH,porames,ปรเมษฐ์,ปรเมศร์,ปรเมศ,ปรเมศ,FALSE,TRUE
+EN2TH,poramed,ปรเมษฐ์,ปรเมศร์,ปรเมษฐ,ปรเมศ,FALSE,FALSE
+EN2TH,oichai,อ้อยใจ,อ้อยชัย,โอ๊ยใจ,อ้อยใจ,TRUE,TRUE
+EN2TH,aoijai,อาอ้อยใจ,อาโอ๊ยใจ,อาโออิใจ,อ้อยใจ,FALSE,FALSE
+EN2TH,oijai,อ้อยใจ,โอ๊ยใจ,โอ้ยใจ,อ้อยใจ,TRUE,TRUE
+EN2TH,monthip,มณทิพย์,มนทิพย์,มลทิพย์,มนต์ทิพย์,FALSE,FALSE
+EN2TH,montip,มณทิพย์,มนทิพย์,มลทิพย์,มนต์ทิพย์,FALSE,FALSE
+EN2TH,thanaphum,ธนภูมิ,ธนาภูมิ,ธนะภูมิ,ธนภูมิ,TRUE,TRUE
+EN2TH,thanabhum,ธนภูมิ,ถ้านับหุ้ม,ฐานภูมิ,ธนภูมิ,TRUE,TRUE
+EN2TH,thanapoom,ธนภูมิ,ธนาภูมิ,ธนะภูมิ,ธนภูมิ,TRUE,TRUE
+EN2TH,phiraphan,พีระพันธ์,พีรพรรณ,พีระพรรณ,พีรพันธ์,FALSE,FALSE
+EN2TH,pirapan,พีระพันธ์,พีรพรรณ,พีระพรรณ,พีรพันธ์,FALSE,FALSE
+EN2TH,peerapan,พีระพันธ์,พีระพรรณ,พีรพรรณ,พีรพันธ์,FALSE,FALSE
+EN2TH,nawaphon,นวพล,นวพร,นวภรณ์,นวพล,TRUE,TRUE
+EN2TH,nawapon,นวพล,นวพร,นวพนธ์,นวพล,TRUE,TRUE
+EN2TH,prakan,ประการ,ประกัน,ประกานต์,ปราการ,FALSE,FALSE
+EN2TH,prakarn,ประการ,ปราการ,ประกานต์,ปราการ,FALSE,TRUE
+EN2TH,thanakhan,ธนาคาร,ธนขันธ์,ธนคาร,ธนาคาร,TRUE,TRUE
+EN2TH,tanakarn,ธนกานต์,ธนกาญจน์,ธนากานต์,ธนาคาร,FALSE,FALSE
+EN2TH,thanakarn,ธนกานต์,ธนกาญจน์,ธนากานต์,ธนาคาร,FALSE,FALSE
+EN2TH,khwanchanok,ขวัญชนก,ควันชนก,ขวัญจนก,ขวัญชนก,TRUE,TRUE
+EN2TH,kwanchanok,ขวัญชนก,กวันชนก,กวัลชนก,ขวัญชนก,TRUE,TRUE
+EN2TH,daruwan,ดรุวรรณ,ดารุวรรณ,ดรุวัลย์,ดรุวรรณ,TRUE,TRUE
+EN2TH,thanawat,ธนวัฒน์,ธนวัต,ธนวัชร์,ธนาวัฒน์,FALSE,FALSE
+EN2TH,tanawat,ธนวัฒน์,ธนวัต,ธนวัชร์,ธนาวัฒน์,FALSE,FALSE
+EN2TH,tanawad,ธนวัฒน์,ธนวัต,ธนวัตร,ธนาวัฒน์,FALSE,FALSE
+EN2TH,pemika,เพมิกา,เปมิกา,เภมิกา,เปมิกา,FALSE,TRUE
+EN2TH,chaloemchat,เฉลิมชาติ,เฉลิมฉัตร,เฉลิมฌัช,เฉลิมชาติ,TRUE,TRUE
+EN2TH,phisit,พิสิษฐ์,พิสิฐ,พิศิษฐ์,พิสิฏฐ์,FALSE,FALSE
+EN2TH,pisit,พิสิษฐ์,พิสิฐ,พิศิษฐ์,พิสิฏฐ์,FALSE,FALSE
+EN2TH,chariphon,จรีพร,จรีภรณ์,จรีย์พร,จรีภรณ์,FALSE,TRUE
+EN2TH,jareeporn,จรีพร,จรีภรณ์,จารีพร,จรีภรณ์,FALSE,TRUE
+EN2TH,jareephorn,จรีพร,จรีภรณ์,จารีพร,จรีภรณ์,FALSE,TRUE
+EN2TH,danai,ดนัย,ดานัย,ดาใน,ดนัย,TRUE,TRUE
+EN2TH,prasit,ประสิทธิ์,ประสิทธ์,ประสิทธิ,ประสิทธิ,FALSE,TRUE
+EN2TH,rotsalin,โรจน์สลิล,รสลิน,โรจน์ศลิน,รสลิน,FALSE,TRUE
+EN2TH,rodsalin,รสลิน,รอดสลิล,รสลิล,รสลิน,TRUE,TRUE
+EN2TH,awae,อาแว,อาแวะ,อะแว,อาแว,TRUE,TRUE
+EN2TH,aawae,อาแว,อาแวะ,อะแว,อาแว,TRUE,TRUE
+EN2TH,suliphon,สุลีพร,สุลีภรณ์,ศุลีพร,สุลีพร,TRUE,TRUE
+EN2TH,suleeporn,สุลีพร,ศุลีพร,สุลีภรณ์,สุลีพร,TRUE,TRUE
+EN2TH,suleepon,สุลีพร,ศุลีพร,สุลีภรณ์,สุลีพร,TRUE,TRUE
+EN2TH,worawit,วรวิทย์,วรวิชญ์,วรวิศว์,วรวิทย์,TRUE,TRUE
+EN2TH,worrawit,วรวิทย์,วรวิชญ์,วรวิศว์,วรวิทย์,TRUE,TRUE
+EN2TH,vorawit,วรวิทย์,วรวิชญ์,วรวิท,วรวิทย์,TRUE,TRUE
+EN2TH,surasit,สุรสิทธิ์,สุรศิษย์,สุรศิษฏ์,สุระสิทธิ์,FALSE,FALSE
+EN2TH,surasith,สุรสิทธิ์,สุรศิษย์h,สุรศิษย์,สุระสิทธิ์,FALSE,FALSE
+EN2TH,mananya,มนัญญา,มณัญญา,มนัญยา,มนัญญา,TRUE,TRUE
+EN2TH,chittranut,จิตรานุช,จิตราณัฐ,จิตรนุช,จิตรานุช,TRUE,TRUE
+EN2TH,jittranut,จิตรานุช,จิตราณัฐ,จิตรนุช,จิตรานุช,TRUE,TRUE
+EN2TH,jittranuch,จิตรานุช,จิตรนุช,จิตตรานุช,จิตรานุช,TRUE,TRUE
+EN2TH,pathumma,ปทุมมา,ปทุมมะ,ปฐมมา,ปทุมมา,TRUE,TRUE
+EN2TH,patumma,ปทุมมา,ปทุมมะ,ปฐมมา,ปทุมมา,TRUE,TRUE
+EN2TH,piyamaphon,ปิยมาภรณ์,ปิยมาพร,ปิยะมาพร,ปิยมาภรณ์,TRUE,TRUE
+EN2TH,piyamaphorn,ปิยมาภรณ์,ปิยมาพร,ปิยะมาพร,ปิยมาภรณ์,TRUE,TRUE
+EN2TH,piyamaporn,ปิยมาภรณ์,ปิยมาพร,ปิยะมาพร,ปิยมาภรณ์,TRUE,TRUE
+EN2TH,suwatchai,สุวัฒน์ชัย,สุวัจน์ชัย,สุวัชชัย,สุวัฒน์ชัย,TRUE,TRUE
+EN2TH,suvatchai,สุวัฒน์ชัย,สุวัจน์ชัย,สุวัจฉัย,สุวัฒน์ชัย,TRUE,TRUE
+EN2TH,supphasin,ศุภสิน,ศุภศิลป์,ศุภสินธ์,สุพศิน,FALSE,FALSE
+EN2TH,suppasin,ศุภสิน,ศุภศิลป์,สุภสิน,สุพศิน,FALSE,FALSE
+EN2TH,watcharachai,วัชรชัย,วัชระชัย,วัชราชัย,วัชรชัย,TRUE,TRUE
+EN2TH,vatcharachai,วัชรชัย,วัชระชัย,วัชราชัย,วัชรชัย,TRUE,TRUE
+EN2TH,praphruet,ประพฤติ,ประพฤฒิ,ประพฤกษ์,ประพฤติ,TRUE,TRUE
+EN2TH,prapruet,ประพฤติ,ประพฤฒิ,ประพฤกษ์,ประพฤติ,TRUE,TRUE
+EN2TH,chaichana,ชัยชนะ,ไชยชนะ,ชัยชนา,ชัยชนะ,TRUE,TRUE
+EN2TH,methichai,เมธีชัย,เมธิชัย,เมธีไชย,เมธิชัย,FALSE,TRUE
+EN2TH,metichai,เมธีชัย,เมธิชัย,เมติชัย,เมธิชัย,FALSE,TRUE
+EN2TH,thawidet,ทวีเดช,ทวีเด็ด,ทวิเดช,ทวีเดช,TRUE,TRUE
+EN2TH,thawidech,ทวีเดช,ทวีเด็ด,ทวิเดช,ทวีเดช,TRUE,TRUE
+EN2TH,taweedet,ทวีเดช,ทวีเด็ด,ทวีเด็จ,ทวีเดช,TRUE,TRUE
+EN2TH,chanthani,จันทนี,จันทนีย์,จันทณี,จันทนี,TRUE,TRUE
+EN2TH,chantanee,จันทนี,จันทนีย์,ฉันทนี,จันทนี,TRUE,TRUE
+EN2TH,janthanee,จันทนี,จันทนีย์,จันทณี,จันทนี,TRUE,TRUE
+EN2TH,soranat,สรณัฐ,ศรณัฐ,สรนาฎ,สรณัฐ,TRUE,TRUE
+EN2TH,soranut,สรณัฐ,สรนุช,ศรณัฐ,สรณัฐ,TRUE,TRUE
+EN2TH,sasiwimon,ศศิวิมล,ศศิวิมนต์,ศศิวิมน,ศศิวิมล,TRUE,TRUE
+EN2TH,sasiwimol,ศศิวิมล,ศศิวิมl,ศศิวิโมl,ศศิวิมล,TRUE,TRUE
+EN2TH,yada,ญาดา,ยาดา,ญดา,ญาดา,TRUE,TRUE
+EN2TH,yawahe,ยาวาเฮ,ยาวาเฮะ,ยาวาเหะ,ยาวาเฮ,TRUE,TRUE
+EN2TH,yawahae,ยาวาแฮ,ยาวาแห,ยวแฮ,ยาวาเฮ,FALSE,FALSE
+EN2TH,phitchaya,พิชญา,พิชยา,พิชญะ,พิชญะ,FALSE,TRUE
+EN2TH,pitchaya,พิชญา,พิชยา,พิชญะ,พิชญะ,FALSE,TRUE
+EN2TH,maae,มาแอ,มะแอ,มาแอะ,มะแอ,FALSE,TRUE
+EN2TH,khunawut,คุณาวุฒิ,คุณาวุธ,คุณอาวุธ,คุณาวุฒิ,TRUE,TRUE
+EN2TH,kunawut,คุณาวุฒิ,คุณาวุธ,คุณวุฒิ,คุณาวุฒิ,TRUE,TRUE
+EN2TH,itthiphon,อิทธิพล,อิทธิพร,อิทธิพนธ์,อิทธิพร,FALSE,TRUE
+EN2TH,itthiporn,อิทธิพร,อิทธิภรณ์,อิทธิพล,อิทธิพร,TRUE,TRUE
+EN2TH,ittiporn,อิทธิพร,อิทธิภรณ์,อิทธิพล,อิทธิพร,TRUE,TRUE
+EN2TH,phakhinai,ภคินัย,ภาคินัย,ภาคีนัย,ภาคินัย,FALSE,TRUE
+EN2TH,pakinai,ภาคินัย,ภคินัย,ภาคีนัย,ภาคินัย,TRUE,TRUE
+EN2TH,chayaphon,ชญาพร,ชยพล,ชยาพร,ชยาภรณ์,FALSE,FALSE
+EN2TH,chayaphorn,ชญาภรณ์,ชยาภรณ์,ชญาพร,ชยาภรณ์,FALSE,TRUE
+EN2TH,chayaporn,ชญาภรณ์,ชยาภรณ์,ชญาพร,ชยาภรณ์,FALSE,TRUE
+EN2TH,phanthipha,พรรณทิภา,พันธิภา,พรรณทิพา,พันทิพา,FALSE,FALSE
+EN2TH,phantipa,พรรณทิภา,พันธิภา,พรรณธิภา,พันทิพา,FALSE,FALSE
+EN2TH,pantipa,พรรณทิภา,พันธิภา,พรรณธิภา,พันทิพา,FALSE,FALSE
+EN2TH,natchana,ณัฐชนา,ณัฐชนะ,ณัชนา,ณัฐชนา,TRUE,TRUE
+EN2TH,nutchana,นุชนา,ณัฐชนา,ณัฐชนะ,ณัฐชนา,FALSE,TRUE
+EN2TH,chirachaya,จิรชญา,จิรชยา,จิรัชญา,จิรชยา,FALSE,TRUE
+EN2TH,jirachaya,จิรชยา,จิรชญา,จิรัชญา,จิรชยา,TRUE,TRUE
+EN2TH,thitiya,ฐิติญา,ฐิติยา,ธิติยา,ธิติยา,FALSE,TRUE
+EN2TH,titiya,ฐิติญา,ฐิติยา,ธิติยา,ธิติยา,FALSE,TRUE
+EN2TH,phonruethai,พรฤทัย,พลฤทัย,ผลฤทัย,พรฤทัย,TRUE,TRUE
+EN2TH,pornruethai,พรฤทัย,ภรณ์ฤทัย,ปอนด์ฤทัย,พรฤทัย,TRUE,TRUE
+EN2TH,pornruetai,พรฤทัย,ภรณ์ฤทัย,ปอนด์ฤทัย,พรฤทัย,TRUE,TRUE
+EN2TH,mariya,มารียา,มารียะ,มารีญา,มารียะ,FALSE,TRUE
+EN2TH,mareeya,มารียะห์,มารียา,มารียะ,มารียะ,FALSE,TRUE
+EN2TH,warot,วรส,วรท,วารส,วรท,FALSE,TRUE
+EN2TH,varot,วรส,วรท,วรต,วรท,FALSE,TRUE
+EN2TH,adinan,อดินันท์,อฎินันท์,อดินัน,อดินันต์,FALSE,FALSE
+EN2TH,adinant,อดินันท์,อดินันท์t,อฎินันท์,อดินันต์,FALSE,FALSE
+EN2TH,adinand,อดินันท์,อดินันท์d,อดินันทน์,อดินันต์,FALSE,FALSE
+EN2TH,huda,ฮูดา,ฮูด้า,ฮุดา,ฮูดา,TRUE,TRUE
+EN2TH,huuda,ฮูดา,ฮูดะ,ฮูด้า,ฮูดา,TRUE,TRUE
+EN2TH,ronnayut,รณยุทธ,รณยุทธ์,รนยุทธ,รณยุทธ,TRUE,TRUE
+EN2TH,phatcharaphon,พัชราภรณ์,พัชรพล,พัชราพร,พัชรพล,FALSE,TRUE
+EN2TH,phatcharapon,พัชรพล,พัชราพร,ภัชรพล,พัชรพล,TRUE,TRUE
+EN2TH,patcharapon,พัชรพล,พัชราพร,พัชรพนธ์,พัชรพล,TRUE,TRUE
+EN2TH,naruephon,นฤพล,นฤพนธ์,นฤพร,นฤพล,TRUE,TRUE
+EN2TH,naruepon,นฤพนธ์,นฤพล,ณฤพล,นฤพล,FALSE,TRUE
+EN2TH,naruepol,นฤพล,ณฤพล,นฤพนธ์,นฤพล,TRUE,TRUE
+EN2TH,duangruethai,ดวงฤทัย,ด้วงฤทัย,ดวงฤาทัย,ดวงฤทัย,TRUE,TRUE
+EN2TH,duangruthai,ดวงฤทัย,ด้วงฤทัย,ดวงฤาทัย,ดวงฤทัย,TRUE,TRUE
+EN2TH,daungruetai,ดวงฤทัย,ด้วงฤทัย,ดึงฤทัย,ดวงฤทัย,TRUE,TRUE
+EN2TH,nuanphan,นวลพรรณ,นวลพันธ์,นวลพันธุ์,นวลพรรณ,TRUE,TRUE
+EN2TH,nuanpan,นวลพรรณ,นวลพันธ์,นวลปาน,นวลพรรณ,TRUE,TRUE
+EN2TH,philatlak,พิลาศลักษณ์,พิลาสลักษณ์,พิลาษลักษณ์,พิลาสลักษณ์,FALSE,TRUE
+EN2TH,pilatlak,พิลาศลักษณ์,พิลาสลักษณ์,พิลาดลักษณ์,พิลาสลักษณ์,FALSE,TRUE
+EN2TH,pilartlak,พิลาศลักษณ์,พิลาสลักษณ์,พิลาดลักษณ์,พิลาสลักษณ์,FALSE,TRUE
+EN2TH,sitthichat,สิทธิชาติ,สิทธิฉัตร,สิทธิชาต,สิทธิชาติ,TRUE,TRUE
+EN2TH,sitthichart,สิทธิชาติ,สิทธิชาต,สิทธิฉัตร,สิทธิชาติ,TRUE,TRUE
+EN2TH,sithichart,สิธิชาติ,สิทธิชาติ,ศิธิชาติ,สิทธิชาติ,FALSE,TRUE
+EN2TH,ruchipha,รุจิภา,รุจีภา,รุจิพา,รุจิภา,TRUE,TRUE
+EN2TH,ruchipa,รุจิภา,รุจีภา,รุจิพา,รุจิภา,TRUE,TRUE
+EN2TH,rujipha,รุจิภา,รุจีภา,รุจิพา,รุจิภา,TRUE,TRUE
+EN2TH,chiramet,จิรเมธ,จิระเมธ,จีรเมธ,จิรเมธ,TRUE,TRUE
+EN2TH,jiramet,จิรเมธ,จิระเมธ,จิราเมธ,จิรเมธ,TRUE,TRUE
+EN2TH,jirameth,จิรเมธ,จิระเมธ,จิราเมธ,จิรเมธ,TRUE,TRUE
+EN2TH,apfan,อัฟฟาน,อัฟฟัน,อัปฟาน,อัฟฟาน,TRUE,TRUE
+EN2TH,affan,อัฟฟาน,อัฟฟัน,แอฟฟัน,อัฟฟาน,TRUE,TRUE
+EN2TH,rachen,ราเจน,ราเชน,ระเจน,ราเชน,FALSE,TRUE
+EN2TH,rachain,ราเชนทร์,ราชอินทร์,ระเชนทร์,ราเชน,FALSE,FALSE
+EN2TH,phonnapha,พรนภา,พลนภา,ภรณ์นภา,พรณภา,FALSE,FALSE
+EN2TH,pornnapha,พรนภา,ภรณ์นภา,พรณภา,พรณภา,FALSE,TRUE
+EN2TH,pornnapa,พรนภา,ภรณ์นภา,ปอนด์นภา,พรณภา,FALSE,FALSE
+EN2TH,parada,ภารดา,ภรดา,ปารดา,ปารดา,FALSE,TRUE
+EN2TH,khachonsak,ขจรศักดิ์,ขจรศักด์,ขจรศักดื์,ขจรศักดิ์,TRUE,TRUE
+EN2TH,khajornsak,ขจรศักดิ์,ขจรศักด์,ขจรสัก,ขจรศักดิ์,TRUE,TRUE
+EN2TH,kajornsak,ขจรศักดิ์,กจรศักดิ์,ขจรศักด์,ขจรศักดิ์,TRUE,TRUE
+EN2TH,sutkhet,สุดเขต,สุดเขตต์,สุดเขตร,สุดเขต,TRUE,TRUE
+EN2TH,sudkhet,สุดเขต,สุดเขตต์,สุดเขตร,สุดเขต,TRUE,TRUE
+EN2TH,sudked,สุดเกตุ,สุดเกษ,สุดเขต,สุดเขต,FALSE,TRUE
+EN2TH,manu,มนู,มานุ,มานู,มนู,TRUE,TRUE
+EN2TH,manoo,มนู,มะนู,มานู,มนู,TRUE,TRUE
+EN2TH,thipphaphon,ทิพพร,ทิพพล,ทิพย์ภาพร,ทิพย์ภาพร,FALSE,TRUE
+EN2TH,tippaporn,ทิพพร,ทิพภาภรณ์,ทิพาภรณ์,ทิพย์ภาพร,FALSE,FALSE
+EN2TH,thippapon,ทิพพล,ทิพพร,ทิพย์พล,ทิพย์ภาพร,FALSE,FALSE
+EN2TH,niphawan,นิภาวรรณ,นิภาวัลย์,นิภาวรรณ์,นิภาวรรณ์,FALSE,TRUE
+EN2TH,nipawan,นิภาวรรณ,นิภาวรรณ์,นิภาวัลย์,นิภาวรรณ์,FALSE,TRUE
+EN2TH,chaiyaphruek,ชัยพฤกษ์,ไชยพฤกษ์,ใช้ยาพฤกษ์,ชัยพฤกษ์,TRUE,TRUE
+EN2TH,chaiyaphuek,ชัยพฤกษ์,ไชยพฤกษ์,ชัยภูเอก,ชัยพฤกษ์,TRUE,TRUE
+EN2TH,chaiyapruek,ชัยพฤกษ์,ไชยพฤกษ์,ใช้ยาพฤกษ์,ชัยพฤกษ์,TRUE,TRUE
+EN2TH,phongphan,พงษ์พันธ์,พงษ์พันธุ์,พงศ์พันธ์,พงษ์พันธ์,TRUE,TRUE
+EN2TH,pongphan,พงษ์พันธ์,พงษ์พันธุ์,พงศ์พันธ์,พงษ์พันธ์,TRUE,TRUE
+EN2TH,pongpan,พงษ์พันธ์,พงษ์พันธุ์,พงศ์พันธ์,พงษ์พันธ์,TRUE,TRUE
+EN2TH,atcharawadi,อัจฉราวดี,อัจจราวดี,อัจฉรวดี,อัจฉราวดี,TRUE,TRUE
+EN2TH,adcharawadee,อัจฉราวดี,อัจจราวดี,อัชราวดี,อัจฉราวดี,TRUE,TRUE
+EN2TH,atcharawadee,อัจฉราวดี,อัจจราวดี,อัชราวดี,อัจฉราวดี,TRUE,TRUE
+EN2TH,phichai,พิชัย,พิไชย,ภิชัย,พิชัย,TRUE,TRUE
+EN2TH,pichai,พิชัย,พิไชย,ภิชัย,พิชัย,TRUE,TRUE
+EN2TH,somsi,สมศรี,ส้มศรี,สมสี,สมศรี,TRUE,TRUE
+EN2TH,somsri,สมศรี,ส้มศรี,ซ่อมศรี,สมศรี,TRUE,TRUE
+EN2TH,niphakon,นิภากร,นิภากรณ์,นิพากร,นิภากร,TRUE,TRUE
+EN2TH,niphakorn,นิภากร,นิพากร,ณิภากร,นิภากร,TRUE,TRUE
+EN2TH,nipakorn,นิภากร,นิพากร,นิปกรณ์,นิภากร,TRUE,TRUE
+EN2TH,naret,นเรศ,ณเรศ,นเรศร์,นเรศร์,FALSE,TRUE
+EN2TH,nares,นเรศ,ณเรศ,นเรศน์,นเรศร์,FALSE,FALSE
+EN2TH,akkharawut,อัคราวุธ,อัครวุฒิ,อัคราวุฒิ,อัครวุฒิ,FALSE,TRUE
+EN2TH,akkarawut,อัคราวุธ,อัครวุฒิ,อัคราวุฒิ,อัครวุฒิ,FALSE,TRUE
+EN2TH,akkaravuth,อัครวุฒิ,อัคราวุธ,อัคราวุฒิ,อัครวุฒิ,TRUE,TRUE
+EN2TH,aphinat,อภิณัฐ,อภินาฎ,อภินาถ,อภินัทธ์,FALSE,FALSE
+EN2TH,apinat,อภินาถ,อภิณัฐ,อภินาฎ,อภินัทธ์,FALSE,FALSE
+EN2TH,sutthida,สุทธิดา,ศุทธิดา,สุธิดา,สุดธิดา,FALSE,FALSE
+EN2TH,sudthida,สุทธิดา,สุดธิดา,ศุทธิดา,สุดธิดา,FALSE,TRUE
+EN2TH,phakchira,ภัคจิรา,ภัคจีรา,ภาคจิรา,ภัคจิรา,TRUE,TRUE
+EN2TH,pakchira,ภัคจิรา,ภัคชิรา,ภัคจีรา,ภัคจิรา,TRUE,TRUE
+EN2TH,pakjira,ภัคจิรา,พักตร์จิรา,ภาคจิรา,ภัคจิรา,TRUE,TRUE
+EN2TH,phakhini,ภาคินี,ภาคิณี,ภคิณี,ภาคินี,TRUE,TRUE
+EN2TH,pakini,ภาคินี,ภาคิณี,ภคิณี,ภาคินี,TRUE,TRUE
+EN2TH,pakinee,ภาคิณี,ภาคินี,ภคิณี,ภาคินี,FALSE,TRUE
+EN2TH,suthiphong,สุธิพงษ์,สุธีพงษ์,สุธิพงศ์,สุธิพงษ์,TRUE,TRUE
+EN2TH,suthipong,สุธิพงษ์,สุธิพงศ์,สุธีพงษ์,สุธิพงษ์,TRUE,TRUE
+EN2TH,suphannika,สุพรรณนิกา,สุพรรณิการ์,สุพรรณณิกา,สุพรรณิกา,FALSE,FALSE
+EN2TH,supannika,สุพรรณนิกา,สุพรรณณิกา,สุพรรณิกา,สุพรรณิกา,FALSE,TRUE
+EN2TH,sutthiphong,สุทธิพงษ์,สุทธิพงศ์,สุทธิพงค์,สุทธิพงษ์,TRUE,TRUE
+EN2TH,sutthipong,สุทธิพงษ์,สุทธิพงศ์,สุทธิพงค์,สุทธิพงษ์,TRUE,TRUE
+EN2TH,kolanya,โกลัญญา,โกฬัญญา,ก็ลัญญา,โกลัญญา,TRUE,TRUE
+EN2TH,methini,เมธินี,เมธิณี,เมธินีย์,เมธินี,TRUE,TRUE
+EN2TH,metinee,เมธินี,เมธิณี,เมทินี,เมธินี,TRUE,TRUE
+EN2TH,methinee,เมธินี,เมธิณี,เมธินีย์,เมธินี,TRUE,TRUE
+EN2TH,wirachon,วีระชล,วีรชล,วีรชน,วีรชน,FALSE,TRUE
+EN2TH,weerachon,วีรชนม์,วีระชล,วีรชล,วีรชน,FALSE,FALSE
+EN2TH,werachon,วีรชนม์,วีระชล,วีรชน,วีรชน,FALSE,TRUE
+EN2TH,lakkhana,ลักขณา,ลัคนา,ลัคณา,ลักคณา,FALSE,FALSE
+EN2TH,lakkana,ลักขณา,ลัคนา,ลักษณา,ลักคณา,FALSE,FALSE
+EN2TH,suwisa,สุวิสาข์,สุวิสา,สุวิษา,สุวิษา,FALSE,TRUE
+EN2TH,suvisa,สุวิสา,สุวิศา,สุวิษา,สุวิษา,FALSE,TRUE
+EN2TH,benchaphon,เบญจพร,เบญจพล,เบ็ญจพร,เบญจพล,FALSE,TRUE
+EN2TH,benjaphon,เบญจพล,เบญจภรณ์,เบญจพร,เบญจพล,TRUE,TRUE
+EN2TH,benjapol,เบญจพล,เบ็ญจพล,เบญจภณ,เบญจพล,TRUE,TRUE
+EN2TH,keson,เกษร,เกสร,เกสรณ์,เกสร,FALSE,TRUE
+EN2TH,kesorn,เกษร,เกสร,เกศร,เกสร,FALSE,TRUE
+EN2TH,khathawut,คฑาวุธ,คทาวุธ,คฑาวุฒิ,คฑาวุธ,TRUE,TRUE
+EN2TH,khatawut,คฑาวุธ,คทาวุธ,คฑาวุฒิ,คฑาวุธ,TRUE,TRUE
+EN2TH,kathawut,คฑาวุธ,คทาวุธ,คฑาวุฒิ,คฑาวุธ,TRUE,TRUE
+EN2TH,amarit,อมฤต,อมฤตย์,อมริศ,อมฤต,TRUE,TRUE
+EN2TH,amarith,อมฤต,อมฤตย์,อมริศ,อมฤต,TRUE,TRUE
+EN2TH,nongnat,นงนาฎ,นงนาฏ,นงณัฐ,นงนารถ,FALSE,FALSE
+EN2TH,nongnart,นงนาฎ,นงนาฏ,นงนาถ,นงนารถ,FALSE,FALSE
+EN2TH,sunantha,สุนันทา,สุนันทะ,สุนันทน์,สุนันทา,TRUE,TRUE
+EN2TH,sununtha,สุนันทา,สุนันทะ,สุนันท,สุนันทา,TRUE,TRUE
+EN2TH,thairat,ไทยรัตน์,ไทยรัฐ,ไทรัตน์,ไทยรัฐ,FALSE,TRUE
+EN2TH,thairath,ไทยรัฐ,ไทรัตน์,ไทยราช,ไทยรัฐ,TRUE,TRUE
+EN2TH,nang,นาง,นั่ง,นัง,นาง,TRUE,TRUE
+EN2TH,narng,นาง,หนาง,น้าง,นาง,TRUE,TRUE
+EN2TH,sorawut,สรวุฒิ,ศรวุฒิ,สรวุธ,สรวุฒิ,TRUE,TRUE
+EN2TH,soravut,สรวุฒิ,ศรวุฒิ,สรวุธ,สรวุฒิ,TRUE,TRUE
+EN2TH,sitthiphon,สิทธิพล,สิทธิพร,สิทธิภรณ์,สิทธิพล,TRUE,TRUE
+EN2TH,sitthiphol,สิทธิพล,สิทธิผล,สิทธิพงษ์,สิทธิพล,TRUE,TRUE
+EN2TH,sitthipol,สิทธิพล,สิทธิผล,สิทธิพนธ์,สิทธิพล,TRUE,TRUE
+EN2TH,chakkaphat,จักรพัฒน์,จักรภัทร,จักรพรรดิ,จักรภัทร,FALSE,TRUE
+EN2TH,jakkaphat,จักรพัฒน์,จักรภัทร,จักรพรรดิ,จักรภัทร,FALSE,TRUE
+EN2TH,chakkapat,จักรพัฒน์,จักรภัทร,จักรพรรดิ,จักรภัทร,FALSE,TRUE
+EN2TH,nanthaphop,นันทภพ,นันทาภพ,นันทพบ,นันทภพ,TRUE,TRUE
+EN2TH,nantapob,นันทภพ,นันตภพ,นันทาภพ,นันทภพ,TRUE,TRUE
+EN2TH,nuntapob,นันทภพ,นันทพบ,นันทาภพ,นันทภพ,TRUE,TRUE
+EN2TH,tharathon,ธราธร,ธาราธร,ธราทร,ธราธร,TRUE,TRUE
+EN2TH,taraton,ธราธร,ธาราธร,ธราทร,ธราธร,TRUE,TRUE
+EN2TH,taratorn,ธราธร,ธาราธร,ธราทร,ธราธร,TRUE,TRUE
+EN2TH,wirachon,วีระชล,วีรชล,วีรชน,วีระชน,FALSE,FALSE
+EN2TH,weerachon,วีรชนม์,วีระชล,วีรชล,วีระชน,FALSE,FALSE
+EN2TH,veerachon,วีรชนม์,วีรชล,วีระชล,วีระชน,FALSE,FALSE
+EN2TH,nakharin,นครินทร์,นครินท์,ณครินทร์,นครินทร์,TRUE,TRUE
+EN2TH,nakarin,นครินทร์,ณกรินทร์,ณครินทร์,นครินทร์,TRUE,TRUE
+EN2TH,maen,แมน,แม้น,แม่น,แมน,TRUE,TRUE
+EN2TH,man,มัน,มาน,แมน,แมน,FALSE,TRUE
+EN2TH,phitphloen,พิศเพลิน,ผิดเพลิน,พิษเพลิน,พิศเพลิน,TRUE,TRUE
+EN2TH,phitplern,พิศเพลิน,พิชญ์เพลิน,พิษเพลิน,พิศเพลิน,TRUE,TRUE
+EN2TH,pitplern,พิศเพลิน,ปิดเพลิน,ผิดเพลิน,พิศเพลิน,TRUE,TRUE
+EN2TH,rotchana,โรจนา,รจนา,โรจนะ,รจนา,FALSE,TRUE
+EN2TH,rotjana,โรจนา,รจนา,โรจนะ,รจนา,FALSE,TRUE
+EN2TH,rodjana,รจนา,โรจนา,โรจนะ,รจนา,TRUE,TRUE
+EN2TH,chanchira,จันทร์จิรา,ชาญจิรา,ฉันจิรา,จันจิรา,FALSE,FALSE
+EN2TH,janjira,จันจิรา,เจนจิรา,จั่นจิรา,จันจิรา,TRUE,TRUE
+EN2TH,niphitphon,นิพิฐพล,นิพิฐพนธ์,นิพิฐพร,นิพิฐพนธ์,FALSE,TRUE
+EN2TH,nipitpon,นิพิฐพล,นิพิฐพนธ์,นิพิฏฐ์พล,นิพิฐพนธ์,FALSE,TRUE
+EN2TH,nipitphon,นิพิฐพล,นิพิฐพนธ์,นิพิฏฐ์พล,นิพิฐพนธ์,FALSE,TRUE
+EN2TH,sakonwan,สกลวรรณ,สาครวรรณ,สกลวัลย์,ศกลวรรณ,FALSE,FALSE
+EN2TH,sakolwan,สกลวรรณ,สกลวรรณ์,สกลวัลย์,ศกลวรรณ,FALSE,FALSE
+EN2TH,setthawut,เศรษฐวุฒิ,เศรษฐาวุธ,เศรษฐาวุฒิ,เสฏฐวุฒิ,FALSE,FALSE
+EN2TH,settavut,เศรษฐวุฒิ,เศรษฐาวุธ,เศรษฐวุธ,เสฏฐวุฒิ,FALSE,FALSE
+EN2TH,settawut,เศรษฐวุฒิ,เศรษฐาวุธ,เศรษฐวุธ,เสฏฐวุฒิ,FALSE,FALSE
+EN2TH,thirawat,ธีรวัฒน์,ธีระวัฒน์,ถิรวัฒน์,ธีระวัฒน์,FALSE,TRUE
+EN2TH,teerawat,ธีรวัฒน์,ธีระวัฒน์,ธีรวรรธน์,ธีระวัฒน์,FALSE,TRUE
+EN2TH,theerawat,ธีรวัฒน์,ธีระวัฒน์,ธีรวรรธน์,ธีระวัฒน์,FALSE,TRUE
+EN2TH,wetchayan,เวชยันต์,เวชญาณ,เวชชยันต์,เวชยันต์,TRUE,TRUE
+EN2TH,wechayan,เวชยันต์,เวชญาณ,เวชะยันต์,เวชยันต์,TRUE,TRUE
+EN2TH,thirasak,ธีรศักดิ์,ธีระศักดิ์,ถิรศักดิ์,ธีระศักดิ์,FALSE,TRUE
+EN2TH,teerasak,ธีรศักดิ์,ธีระศักดิ์,ธีราศักดิ์,ธีระศักดิ์,FALSE,TRUE
+EN2TH,theerasak,ธีรศักดิ์,ธีระศักดิ์,ธีราศักดิ์,ธีระศักดิ์,FALSE,TRUE
+EN2TH,siriphon,ศิริพร,ศิริพล,สิริพร,สิริภรณ์,FALSE,FALSE
+EN2TH,siriphorn,ศิริพร,สิริพร,ศิริภรณ์,สิริภรณ์,FALSE,FALSE
+EN2TH,siriporn,ศิริพร,สิริพร,ศิริภรณ์,สิริภรณ์,FALSE,FALSE
+EN2TH,thanyanan,ธัญญานันท์,ธันยนันท์,ธัญนันท์,ธัญนันท์,FALSE,TRUE
+EN2TH,tanyanan,ธัญญานันท์,ธันยนันท์,ธัญนันท์,ธัญนันท์,FALSE,TRUE
+EN2TH,thunyanan,ธัญญานันท์,ธัญนันท์,ธันยนันท์,ธัญนันท์,FALSE,TRUE
+EN2TH,phisek,พิเศก,พิเษก,พิเศษ,ภิเษก,FALSE,FALSE
+EN2TH,pisek,พิเศก,พิเศษ,พิเษก,ภิเษก,FALSE,FALSE
+EN2TH,phatcharawan,พัชรวรรณ,พัชราวรรณ,พัชรวรรณ์,พัชรวรรณ,TRUE,TRUE
+EN2TH,patcharawan,พัชรวรรณ,พัชราวรรณ,พัชรวรรณ์,พัชรวรรณ,TRUE,TRUE
+EN2TH,patcharavan,พัชรวรรณ,พัชราวรรณ,พัชรวรรณ์,พัชรวรรณ,TRUE,TRUE
+EN2TH,phatsakhon,ภาสกร,พัสคร,พัสกร,พัสกร,FALSE,TRUE
+EN2TH,phatsakorn,พัสกร,ภัสกร,พรรษกร,พัสกร,TRUE,TRUE
+EN2TH,patsakorn,พัสกร,พรรษกร,ภัสกร,พัสกร,TRUE,TRUE
+EN2TH,duangmani,ดวงมณี,ด้วงมณี,ดวงมะณี,ดวงมณี,TRUE,TRUE
+EN2TH,duangmanee,ดวงมณี,ด้วงมณี,ดวงมะณี,ดวงมณี,TRUE,TRUE
+EN2TH,phatthararuethai,ภัทรฤทัย,ภัทรฤาทัย,ภัธรฤทัย,ภัทรฤทัย,TRUE,TRUE
+EN2TH,pattararuethai,ภัทรฤทัย,ภัทรฤาทัย,พัทรฤทัย,ภัทรฤทัย,TRUE,TRUE
+EN2TH,pattararuetai,ภัทรฤทัย,ภัทรหรือตาย,ภัทรฤาทัย,ภัทรฤทัย,TRUE,TRUE
+EN2TH,wirayut,วีรยุทธ,วีรยุทธ์,วีระยุทธ์,วีรยุทธ,TRUE,TRUE
+EN2TH,weerayuth,วีรยุทธ์,วีรยุทธ,วีระยุทธ์,วีรยุทธ,FALSE,TRUE
+EN2TH,veerayut,วีรยุทธ,วีรยุทธ์,วีระยุทธ,วีรยุทธ,TRUE,TRUE
+EN2TH,chiranut,จิรานุช,จิรนุช,จีรนุช,จิรนุช,FALSE,TRUE
+EN2TH,jiranut,จิรานุช,จิรนุช,จิราณัฐ,จิรนุช,FALSE,TRUE
+EN2TH,jiranuch,จิรานุช,จิรนุช,จีรนุช,จิรนุช,FALSE,TRUE
+EN2TH,chakkrawut,จักรวุฒิ,จักรวุธ,จักราวุธ,จักราวุธ,FALSE,TRUE
+EN2TH,jakkrawut,จักรวุฒิ,จักรวุธ,จักราวุธ,จักราวุธ,FALSE,TRUE
+EN2TH,thanit,ธนิต,ฐานิต,ธนิษฐ์,ธนิตย์,FALSE,FALSE
+EN2TH,tanit,ธนิต,ฐานิต,ธนิตย์,ธนิตย์,FALSE,TRUE
+EN2TH,tanid,ธนิต,ธนิตย์,ฐานิต,ธนิตย์,FALSE,TRUE
+EN2TH,phatthanasak,พัฒนศักดิ์,พัฒนาศักดิ์,พัฒนะศักดิ์,พัฒนศักดิ์,TRUE,TRUE
+EN2TH,pattanasak,พัฒนศักดิ์,พัฒนาศักดิ์,พัฒนะศักดิ์,พัฒนศักดิ์,TRUE,TRUE
+EN2TH,piak,เปียก,เพียก,เผียก,เปี๊ยก,FALSE,FALSE
+EN2TH,rani,ราณี,รานี,รณี,ราณี,TRUE,TRUE
+EN2TH,ranee,ราณี,รานี,รณี,ราณี,TRUE,TRUE
+EN2TH,photsawat,พจน์สวัสดิ์,โพธิสวัสดิ์,พจสวัสดิ์,พศวัต,FALSE,FALSE
+EN2TH,potsawat,พจสวัสดิ์,พสวัสดิ์,พอตสวัสดิ์,พศวัต,FALSE,FALSE
+EN2TH,potsavat,พสวัสดิ์,พศวัฒน์,พศวรรธน์,พศวัต,FALSE,FALSE
+EN2TH,bunyaphon,บุญญาภรณ์,บุญญาพร,บุณยาภรณ์,บุญญาพร,FALSE,TRUE
+EN2TH,bunyaporn,บุญญาภรณ์,บุณยาภรณ์,บุญญาพร,บุญญาพร,FALSE,TRUE
+EN2TH,bunyaphorn,บุญญาภรณ์,บุณยาภรณ์,บุญญาพร,บุญญาพร,FALSE,TRUE
+EN2TH,chayaphon,ชญาพร,ชยพล,ชยาพร,ชยพล,FALSE,TRUE
+EN2TH,chayapol,ชยพล,ชญาพล,ชยาพล,ชยพล,TRUE,TRUE
+EN2TH,chayapon,ชยพล,ชญาพร,ชญาพล,ชยพล,TRUE,TRUE
+EN2TH,pancha,ปัญจา,ปัญจะ,ปัญชา,ปัญจะ,FALSE,TRUE
+EN2TH,panja,ปัญจา,ปัญจะ,ปัญจ,ปัญจะ,FALSE,TRUE
+EN2TH,phichet,พิเชษฐ์,พิเชฐ,พิเชษฐ,พิเชษ,FALSE,FALSE
+EN2TH,pichet,พิเชษฐ์,พิเชฐ,พิเชษฐ,พิเชษ,FALSE,FALSE
+EN2TH,lamchiak,ลำเจียก,ล้ำเจียก,ลำเชียก,ลำเจียก,TRUE,TRUE
+EN2TH,lamjiak,ลำเจียก,ล้ำเจียก,หลำเจียก,ลำเจียก,TRUE,TRUE
+EN2TH,taeng,แตง,แต่ง,แต้ง,แตง,TRUE,TRUE
+EN2TH,tang,ตั้ง,แตง,ต่าง,แตง,FALSE,TRUE
+EN2TH,phanphimon,พรรณพิมล,พันพิมล,พรรพิมล,พรรณพิมล,TRUE,TRUE
+EN2TH,phanpimon,พรรณพิมล,พันพิมล,พรรพิมล,พรรณพิมล,TRUE,TRUE
+EN2TH,panpimon,พรรณพิมล,พันพิมล,ปานพิมล,พรรณพิมล,TRUE,TRUE
+EN2TH,ketkanok,เกตุกนก,เกศกนก,เกษกนก,เกศกนก,FALSE,TRUE
+EN2TH,keskanok,เกษกนก,เกศกนก,เกสกนก,เกศกนก,FALSE,TRUE
+EN2TH,sakon,สกล,สากล,สาคร,สากล,FALSE,TRUE
+EN2TH,sakol,สกล,สากล,ศกล,สากล,FALSE,TRUE
+EN2TH,sutthiwat,สุทธิวัฒน์,สุทธิวัตร,สุทธิวัจน์,สุทธิวัฒน์,TRUE,TRUE
+EN2TH,nalita,นลิตา,ณลิตา,นาฬิตา,นลิตา,TRUE,TRUE
+EN2TH,akkharawin,อัครวินท์,อัครวิน,อักขระวิน,อัครวินท์,TRUE,TRUE
+EN2TH,akkarawin,อัครวินท์,อัครวิน,อักขระวิน,อัครวินท์,TRUE,TRUE
+EN2TH,akkaravin,อัครวินท์,อัครวิน,อักขระวิน,อัครวินท์,TRUE,TRUE
+EN2TH,somdet,สมเด็จ,ส้มเด็จ,สมเดช,สมเดช,FALSE,TRUE
+EN2TH,somdech,สมเด็จ,สมเดช,ส้มเด็จ,สมเดช,FALSE,TRUE
+EN2TH,phakarat,ผการัตน์,ภครัตน์,พการัตน์,ผการัตน์,TRUE,TRUE
+EN2TH,pakarat,ภครัตน์,ภครัชต์,ภครัต,ผการัตน์,FALSE,FALSE
+EN2TH,yotthong,ยอดทอง,ยศทอง,หยอดทอง,ยอดธง,FALSE,FALSE
+EN2TH,yodthong,ยอดทอง,ยศทอง,หยดทอง,ยอดธง,FALSE,FALSE
+EN2TH,yordtong,ยอดทอง,หยอดทอง,ยอดต้อง,ยอดธง,FALSE,FALSE
+EN2TH,nuengnut,หนึ่งนุช,นึงนุช,หนึ่งณัฐ,หนึ่งนุช,TRUE,TRUE
+EN2TH,nuengnuch,หนึ่งนุช,นึงนุช,เนืองนุช,หนึ่งนุช,TRUE,TRUE
+EN2TH,nanthaphon,นันทพร,นันทพล,นันทภรณ์,นันทพล,FALSE,TRUE
+EN2TH,nantapol,นันทพล,นันตพล,นันทภณ,นันทพล,TRUE,TRUE
+EN2TH,nuntapol,นันทพล,นันตพล,นันทพนธ์,นันทพล,TRUE,TRUE
+EN2TH,chalida,ชลิดา,ชาลิดา,ชลิฎา,ชลิดา,TRUE,TRUE
+EN2TH,warunyupha,วรุณยุพา,วรุณยุภา,วรัญญุภา,วรุณยุภา,FALSE,TRUE
+EN2TH,varunyupa,วรุณยุพา,วรัญญุภา,วรัญญุพา,วรุณยุภา,FALSE,FALSE
+EN2TH,warunyupa,วรุณยุพา,วรัญญุภา,วรุณยุภา,วรุณยุภา,FALSE,TRUE
+EN2TH,phonprasoet,พรประเสริฐ,พลประเสริฐ,ผลประเสริฐ,พรประเสริฐ,TRUE,TRUE
+EN2TH,pornprasert,พรประเสริฐ,ภรณ์ประเสริฐ,ภรประเสริฐ,พรประเสริฐ,TRUE,TRUE
+EN2TH,thanaphon,ธนพล,ธนาพร,ธนาพล,ธนพนธ์,FALSE,FALSE
+EN2TH,tanapon,ธนพล,ธนาพล,ธนพนธ์,ธนพนธ์,FALSE,TRUE
+EN2TH,thanapon,ธนพล,ธนาภรณ์,ธนาพล,ธนพนธ์,FALSE,FALSE
+EN2TH,damrat,ดำรัส,ดำรัด,ดำรัฐ,ดำรัส,TRUE,TRUE
+EN2TH,dumras,ดำรัส,ดำราษฎร์,ดำรัศมิ์,ดำรัส,TRUE,TRUE
+EN2TH,damras,ดำรัส,ดำรัศม์,ดำรัสม์,ดำรัส,TRUE,TRUE
+EN2TH,sophaphon,โสภาภรณ์,โสภาพร,โศภาภรณ์,โสภาพร,FALSE,TRUE
+EN2TH,sopapon,โสภาพร,โสภาภรณ์,โสภาพล,โสภาพร,TRUE,TRUE
+EN2TH,sopaphon,โสภาภรณ์,โสภาพร,โศภาภรณ์,โสภาพร,FALSE,TRUE
+EN2TH,phraewa,แพรวา,แพร่ว่า,แพร่วา,แพรวา,TRUE,TRUE
+EN2TH,praewa,แพรวา,แปรวา,แพร่วา,แพรวา,TRUE,TRUE
+EN2TH,praewwa,แพรววา,แพรวว่า,แพรววะ,แพรวา,FALSE,FALSE
+EN2TH,phensi,เพ็ญศรี,เพ็ญสี,เพ็ญศิ,เพ็ญศรี,TRUE,TRUE
+EN2TH,pensri,เพ็ญศรี,เป็นศรี,เพ็ญสี,เพ็ญศรี,TRUE,TRUE
+EN2TH,phensri,เพ็ญศรี,เพ็ญสี,เพชรศรี,เพ็ญศรี,TRUE,TRUE
+EN2TH,thirawut,ธีรวุฒิ,ธีระวุฒิ,ธีราวุธ,ธีระวุฒิ,FALSE,TRUE
+EN2TH,teerawut,ธีรวุฒิ,ธีระวุฒิ,ธีราวุฒิ,ธีระวุฒิ,FALSE,TRUE
+EN2TH,theerawut,ธีรวุฒิ,ธีระวุฒิ,ธีราวุฒิ,ธีระวุฒิ,FALSE,TRUE
+EN2TH,chanthapha,จันทภา,จันทร์ภา,จันทะภา,จันทภา,TRUE,TRUE
+EN2TH,jantapa,จันทภา,จันทะภา,จันทปา,จันทภา,TRUE,TRUE
+EN2TH,janthapha,จันทภา,จันทะภา,จันทร์ทภา,จันทภา,TRUE,TRUE
+EN2TH,sutharat,สุธารัตน์,สุทารัตน์,สุธารัฐ,สุฑารัตน์,FALSE,FALSE
+EN2TH,sutarat,สุธารัตน์,ศุธารัตน์,สุตารัตน์,สุฑารัตน์,FALSE,FALSE
+EN2TH,useng,อุเซ็ง,อูเซ็ง,อู่เซ็ง,อุเซ็ง,TRUE,TRUE
+EN2TH,thawanrat,ธวัลรัตน์,ธาวัลรัตน์,ธวรรณรัตน์,ธวัลรัตน์,TRUE,TRUE
+EN2TH,tawanrat,ธวัลรัตน์,ตะวันรัตน์,ตวันรัตน์,ธวัลรัตน์,TRUE,TRUE
+EN2TH,tawalrat,ธวัลรัตน์,ตวัลรัตน์,ธวัลรัชต์,ธวัลรัตน์,TRUE,TRUE
