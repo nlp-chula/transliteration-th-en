@@ -27,7 +27,6 @@ These are dev-set numbers. The dev set was also used to pick the fine-tuning con
 
 ```
 ├── configs/final.yaml       # final settings for reference (already the code defaults)
-├── data/README.md           # expected input files and columns
 ├── scripts/reproduce_final.sh
 └── src/
     ├── config.py            # Config dataclass, device, seeding, YAML overrides
@@ -51,7 +50,7 @@ These are dev-set numbers. The dev set was also used to pick the fine-tuning con
 pip install -r requirements.txt
 ```
 
-Put `romanization-train.csv` (gold) and `romanization-silver.csv` (silver) in `data/`. See [data/README.md](data/README.md).
+Put `romanization-train.csv`  and `romanization-silver.csv` (unzipped)  in `data/`. 
 
 ## Reproduce the final model
 
