@@ -9,7 +9,7 @@ Place the source files in this folder (`data_dir` in `src/config.py`; scripts ar
 
 `python -m src.prepare_data` writes these to `outputs/`:
 
-| File | Expected size |
+| File |  size |
 |---|---|
 | `train_gold.csv` | 2,944 rows / 2,914 unique names |
 | `dev_set.csv` | 325 rows / 323 unique names |
