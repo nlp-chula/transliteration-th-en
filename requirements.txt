@@ -1,0 +1,8 @@
+torch==2.15.0
+transformers==5.23.0
+numpy
+pandas
+pyyaml
+tqdm
+matplotlib
+ipython      # needed for the progress bar (tqdm) outside notebooks

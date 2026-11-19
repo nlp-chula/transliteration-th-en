@@ -1,0 +1,43 @@
+# Final model settings (paper: "Small", mixed -> gold, trust threshold 0.3) — FOR REFERENCE.
+#
+# You don't need this file: these are already the defaults in src/config.py and
+# src/train.py (PIPELINE_DEFAULTS), so `python -m src.train` trains the final model as is.
+# Passing it with --config changes nothing. Copy it and edit the copy to try other settings,
+# e.g.  python -m src.train --config configs/my_experiment.yaml
+
+config:
+  data_dir: data
+  out_dir: ./outputs
+  seed: 42
+  dev_frac: 0.10                  # 9:1 split on unique Thai names
+
+  # silver
+  silver_trust_threshold: 0.3
+  silver_max_rows: null           # no cap
+
+  # model — Small
+  d_model: 256
+  nhead: 4
+  num_encoder_layers: 4
+  num_decoder_layers: 4
+  dim_feedforward: 1024
+
+  # optimisation (AdamW)
+  batch_size: 256
+  weight_decay: 0.01
+  grad_clip: 1.0
+  lr: 5.0e-4                      # pretrain learning rate
+  silver_epochs: 10               # pretrain epochs
+
+  # decoding
+  beam: 5
+  n_best: 3                       # return top-3 candidates
+  len_alpha: 0.7                  # length penalty
+  gen_max_len: 24                 # max output tokens
+
+pipeline:
+  pretrain_kind: mixed            # mixed pool = silver + gold x gold_upsample
+  gold_upsample: 8
+  pretrain_checkpoint: pretrain_mixed_0.3.pt
+  finetune_lrs: [1.0e-4, 3.0e-4]  # gold fine-tuning grid
+  finetune_epochs: [5, 10, 15]

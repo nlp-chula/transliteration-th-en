@@ -1,0 +1,15 @@
+# outputs and model weights (weights live on Hugging Face)
+outputs/
+*.pt
+*.bin
+*.safetensors
+
+# raw data (see data/README.md); committed splits go in data/splits/
+data/*.csv
+
+# python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
